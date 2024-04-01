@@ -71,13 +71,28 @@ sections:
           location: Shenzhen, China
           date_start: '2024-05-06'
           date_end: ''
-          # description: Computational Social Science, School of Humanities and Social Science
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Computational Social Science, School of Humanities and Social Science
+          # description: |2-
+          #     Responsibilities include:
+          # 
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Research Scientist
+          company: KAUST
+          company_url: https://www.kaust.edu.sa/
+          company_logo: icon_kaust
+          location: Thuwal, Saudi Arabia
+          date_start: '2019-07-21'
+          date_end: '2024-01-15'
+          description: Biostatistics Group, Computer, Electrical and Mathematical Sciences and Engineering             - title: Research Fellow
+          company: NUS
+          company_url: https://www.kaust.edu.sa/
+          company_logo: icon_nus
+          location: Singapore
+          date_start: '2012-07-10'
+          date_end: '2019-07-19'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
