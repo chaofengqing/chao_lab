@@ -16,8 +16,7 @@ doi: "10.6084/m9.figshare.23659998"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-27T00:00:00Z"
 
-# Publication type.
-# Legend: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# Publication type: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.

@@ -18,7 +18,7 @@ doi: "10.1016/S2214-109X(23)00376-5"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-15T00:00:00Z"
 
-# Publication type.
+# Publication type: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
