@@ -86,14 +86,14 @@ sections:
           date_start: '2019-07-21'
           date_end: '2024-01-15'
           description: Biostatistics Group, Computer, Electrical and Mathematical Sciences and Engineering
-        # - title: Research Fellow
-          # company: NUS
-          # company_url: https://www.kaust.edu.sa/
-          # company_logo: icon_nus
-          # location: Singapore
-          # date_start: '2012-07-10'
-          # date_end: '2019-07-19'
-          # description: ''
+        - title: Research Fellow
+          company: NUS
+          company_url: https://www.kaust.edu.sa/
+          company_logo: icon_nus
+          location: Singapore
+          date_start: '2012-07-10'
+          date_end: '2019-07-19'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
