@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Assistant Professor
-          company: CUHK (Shenzhen)
-          company_url: https://www.cuhk.edu.cn/en
-          company_logo: CUSZ-03logo
-          location: Shenzhen
-          date_start: '2024-05-06'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
