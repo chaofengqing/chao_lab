@@ -88,7 +88,7 @@ sections:
           description: Biostatistics Group, Computer, Electrical and Mathematical Sciences and Engineering
         - title: Research Fellow
           company: NUS
-          company_url: https://www.kaust.edu.sa/
+          company_url: https://nus.edu.sg/
           company_logo: icon_nus
           location: Singapore
           date_start: '2012-07-10'
