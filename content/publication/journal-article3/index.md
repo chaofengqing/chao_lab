@@ -13,7 +13,7 @@ doi: "10.1016/S2214-109X(18)30059-7"
 publishDate: "2019-05-01T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The Lancet Global Health, 6*(5) e535--e547"

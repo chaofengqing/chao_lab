@@ -12,7 +12,7 @@ doi: "10.1214/20-AOAS1436"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Annals of Applied Statistics, 15*(3) 1499-1528"

@@ -11,7 +11,7 @@ doi: "10.1093/database/baz085"
 publishDate: "2019-06-27T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Database, 2019* baz085"

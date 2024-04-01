@@ -19,7 +19,7 @@ doi: "10.1016/S2214-109X(23)00376-5"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Lancet Global Health, 11*(10) e1519-e1530"

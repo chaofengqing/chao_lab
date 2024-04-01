@@ -9,7 +9,7 @@ doi: "10.1080/2330443X.2013.856148"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "*Statistics and Public Policy, 1*(1) 6--18"
 publication_short: ""

@@ -11,7 +11,7 @@ doi: "10.36922/ijps.v8i2.332"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Journal of Population Studies, 8*(2) 51-70"

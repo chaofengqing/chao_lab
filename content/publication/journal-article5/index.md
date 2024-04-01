@@ -10,7 +10,7 @@ doi: "10.3934/fods.2019008"
 publishDate: "2019-06-27T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Foundations of Data Science, 1*(2) 177--196"

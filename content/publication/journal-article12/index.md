@@ -11,7 +11,7 @@ doi: "10.1186/s12889-022-12693-0"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*BMC Public Health, 22*(1) 358"

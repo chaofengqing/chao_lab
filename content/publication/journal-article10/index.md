@@ -13,7 +13,7 @@ doi: "10.1136/bmjgh-2021-005516"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*BMJ Global Health, 6*(8) e005516"

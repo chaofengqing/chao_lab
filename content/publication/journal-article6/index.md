@@ -11,7 +11,7 @@ doi: "10.1080/00324728.2020.1762912"
 publishDate: "2019-06-27T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Population Studies, 74*(2) 283--289"

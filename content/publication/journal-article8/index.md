@@ -12,7 +12,7 @@ doi: "10.1371/journal.pone.0236673"
 publishDate: "2020-04-15T00:00:00Z"
 
 # Publication type.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*PLoS ONE, 15*(8) e0236673"
