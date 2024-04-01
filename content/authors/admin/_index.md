@@ -134,7 +134,7 @@ social:
 highlight_name: true
 ---
 
-I am about to become an Assistant Professor of Computational Social Science in the [School of Humanities and Social Science at CUHK (Shenzhen)](https://hss.cuhk.edu.cn/en). I am a statistician with research interests in demography and global health.
+I am about to become an Assistant Professor in the [School of Humanities and Social Science](https://hss.cuhk.edu.cn/en) at CUHK (Shenzhen). I am a statistician with research interests in demography and global health.
 
 I have been collaborating with UNICEF, specifically the [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/), since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the [UN Population Division](https://www.un.org/development/desa/pd/) since 2013 on estimating and projecting sex ratio at birth, age-specific fertility rates, and sex-specific adult mortality rates using Bayesian approaches. Since 2024, I started to collaborate with the [WHO Sexual and Reproductive Health and Research Department](https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/human-reproduction-programme).
 

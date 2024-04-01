@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -53,6 +53,8 @@ sections:
   - block: experience
     content:
       title: Experience
+      text: |-
+        Positions are current/final positions at each experience period. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/uploads/cv_CHAOFENGQING.pdf).
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,12 +64,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Assistant Professor
+          company: CUHK (Shenzhen)
+          company_url: https://hss.cuhk.edu.cn/en
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Shenzhen, China
+          date_start: '2024-05-06'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,13 +77,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Research Scientist
+          company: KAUST
+          company_url: https://www.kaust.edu.sa/
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Thuwal, Saudi Arabia
+          date_start: '2019-07-21'
+          date_end: '2024-01-15'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
