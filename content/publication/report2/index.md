@@ -13,7 +13,7 @@ doi: "10.6084/m9.figshare.12442244"
 publishDate: "2019-05-01T00:00:00Z"
 
 # Publication type.
-publication_types: ["4"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*The Lancet Global Health, 6*(5) e535--e547"
