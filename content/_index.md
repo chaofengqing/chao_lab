@@ -67,7 +67,7 @@ sections:
         - title: Assistant Professor
           company: CUHK (Shenzhen)
           company_url: https://hss.cuhk.edu.cn/en
-          company_logo: org-gc
+          company_logo: icon_cuhksz
           location: Shenzhen, China
           date_start: '2024-05-06'
           date_end: ''
@@ -80,7 +80,7 @@ sections:
         - title: Research Scientist
           company: KAUST
           company_url: https://www.kaust.edu.sa/
-          company_logo: org-x
+          company_logo: icon_kaust
           location: Thuwal, Saudi Arabia
           date_start: '2019-07-21'
           date_end: '2024-01-15'
