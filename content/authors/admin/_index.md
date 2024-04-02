@@ -110,12 +110,12 @@ social:
   - icon: arxiv
     icon_pack: ai
     link: https://arxiv.org/a/chao_f_1.html
-  - icon: semantic-scholar
-    icon_pack: ai
-    link: https://www.semanticscholar.org/author/Fengqing-Chao/39666710
-  - icon: publons
-    icon_pack: ai
-    link: https://publons.com/researcher/3628429/fengqing-chao/
+  # - icon: semantic-scholar
+  #   icon_pack: ai
+  #   link: https://www.semanticscholar.org/author/Fengqing-Chao/39666710
+  # - icon: publons
+  #   icon_pack: ai
+  #   link: https://publons.com/researcher/3628429/fengqing-chao/
   - icon: figshare
     icon_pack: ai
     link: https://figshare.com/authors/Fengqing_Chao/8914205
