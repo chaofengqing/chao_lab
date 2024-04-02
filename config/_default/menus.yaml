@@ -23,7 +23,7 @@ main:
     url: 'talks'
     weight: 37
   - name: Posts
-    url: 'posts'
+    url: 'post'
     weight: 40
   - name: Media
     url: 'media'
