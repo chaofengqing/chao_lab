@@ -99,7 +99,7 @@ social:
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=r8PB6loAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
