@@ -20,10 +20,10 @@ main:
     url: 'collaborators'
     weight: 36
   - name: Talks
-    url: 'talk'
+    url: 'talks'
     weight: 37
   - name: Posts
-    url: 'post'
+    url: 'posts'
     weight: 40
   - name: Media
     url: 'media'
