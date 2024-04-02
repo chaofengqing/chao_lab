@@ -247,18 +247,19 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: ''
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: chaofengqingATcuhk.edu.cn (replace AT with @)
+      phone: ''
+      appointment_url: ''
       address:
         street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        city: Shenzhen
+        region: Guangdong
         postcode: '94305'
-        country: United States
+        country: China
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
@@ -276,13 +277,13 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:fengqing.chao?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
       form:
         provider: netlify
