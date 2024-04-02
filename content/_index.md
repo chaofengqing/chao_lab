@@ -48,8 +48,8 @@ sections:
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
-  #   design:
-  #     columns: '1'
+    design:
+      columns: '1'
   # - block: experience
   #   content:
   #     title: Experience
@@ -136,8 +136,8 @@ sections:
   #         organization_url: https://www.datacamp.com
   #         title: 'Object-Oriented Programming in R'
   #         url: ''
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   - block: collection
     id: posts
     content:
@@ -211,6 +211,7 @@ sections:
     design:
       columns: '2'
       view: card
+      
   - block: collection
     content:
       title: Recent Publications
@@ -222,17 +223,18 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        count: '3'
     design:
       columns: '2'
       view: citation
+
+
   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talk
     design:
       columns: '2'
       view: compact
