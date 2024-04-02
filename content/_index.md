@@ -222,7 +222,7 @@ sections:
         folders:
           - publication
         exclude_featured: true
-        count: 3
+        count: '3'
     design:
       columns: '2'
       view: citation
