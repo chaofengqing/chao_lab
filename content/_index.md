@@ -218,11 +218,12 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
       filters:
         folders:
           - publication
         exclude_featured: true
-        count: '3'
     design:
       columns: '2'
       view: citation
