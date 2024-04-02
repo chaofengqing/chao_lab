@@ -20,7 +20,7 @@ main:
     url: 'collaborators'
     weight: 36
   - name: Talks
-    url: 'talks'
+    url: 'talk'
     weight: 37
   - name: Posts
     url: 'post'
