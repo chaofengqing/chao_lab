@@ -5,6 +5,8 @@ authors:
 - Christophe Z. Guilmoto
 - Samir K.C.
 - Hernando Ombao
+author_notes:
+- "Correspondence"
 date: "2020-08-20T00:00:00Z"
 doi: "10.1371/journal.pone.0236673"
 

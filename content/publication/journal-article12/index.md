@@ -4,6 +4,9 @@ authors:
 - admin
 - Samir K.C.
 - Hernando Ombao
+author_notes:
+- "Correspondence"
+- "Correspondence"
 date: "2022-02-19T00:00:00Z"
 doi: "10.1186/s12889-022-12693-0"
 

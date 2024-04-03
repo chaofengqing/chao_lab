@@ -6,6 +6,8 @@ authors:
 - Jon Pedersen
 - Lucia Hug
 - Leontine Alkema
+author_notes:
+- "Correspondence"
 date: "2018-05-01T00:00:00Z"
 doi: "10.1016/S2214-109X(18)30059-7"
 

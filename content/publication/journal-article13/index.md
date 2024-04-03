@@ -4,6 +4,8 @@ authors:
 - admin
 - Muhammad Asif Wazir
 - Hernando Ombao
+author_notes:
+- "Correspondence"
 date: "2022-12-14T00:00:00Z"
 doi: "10.36922/ijps.v8i2.332"
 

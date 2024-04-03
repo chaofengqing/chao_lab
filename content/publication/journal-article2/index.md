@@ -3,6 +3,9 @@ title: "How informative are vital registration data for estimating maternal mort
 authors:
 - admin
 - Leontine Alkema
+author_notes:
+- "Correspondence"
+- "Correspondence"
 date: "2014-12-23T00:00:00Z"
 doi: "10.1080/2330443X.2013.856148"
 

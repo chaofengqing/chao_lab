@@ -11,7 +11,7 @@ authors:
 - Hernando Ombao
 - Leontine Alkema
 author_notes:
-- "Corresponding"
+- "Correspondence"
 date: "2023-09-19T00:00:00Z"
 doi: "10.1016/S2214-109X(23)00376-5"
 

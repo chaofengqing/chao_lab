@@ -3,6 +3,8 @@ title: "Levels and trends in the sex ratio at birth and missing female births fo
 authors:
 - admin
 - Ajit Kumar Yadav
+author_notes:
+- "Correspondence"
 date: "2019-06-01T00:00:00Z"
 doi: "10.3934/fods.2019008"
 

@@ -5,6 +5,8 @@ authors:
 - Patrick Gerland
 - Alex R. Cook
 - Leontine Alkema
+author_notes:
+- "Correspondence"
 date: "2021-09-23T00:00:00Z"
 doi: "10.1214/20-AOAS1436"
 

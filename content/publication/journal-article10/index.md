@@ -6,6 +6,8 @@ authors:
 - Alex R. Cook
 - Christophe Z. Guilmoto
 - Leontine Alkema
+author_notes:
+- "Correspondence"
 date: "2021-08-02T00:00:00Z"
 doi: "10.1136/bmjgh-2021-005516"
 
