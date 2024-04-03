@@ -6,6 +6,8 @@ authors:
 - Danzhen You
 - Jon Pedersen
 - Cheryl C. Sawyer
+author_notes:
+- "Correspondence"
 date: "2014-09-01T00:00:00Z"
 doi: "10.1016/S2214-109X(14)70280-3"
 
