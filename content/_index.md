@@ -300,15 +300,15 @@ sections:
       contact_links:
         - icon: skype
           icon_pack: fab
-          name: Skype Me
+          name: Skype
           link: 'skype:fengqing.chao?call'
-        - icon: wexin
-          icon_pack: fab
-          name: WeChat Me
+        - icon: brands/wexin
+          icon_pack: brands
+          name: WeChat
           link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
         - icon: video
           icon_pack: fas
-          name: Zoom Me
+          name: Zoom
           link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: false
