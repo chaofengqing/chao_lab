@@ -49,20 +49,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: RStudio
         description: ''
         percent: 80
-        icon: python
+        icon: rstudio
         icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: <i class="devicon-latex-original colored"></i>
         description: ''
         percent: 40
-        icon: database
+        icon: latex
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -78,7 +78,7 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Tennis
         description: ''
         percent: 80
         icon: camera-retro
