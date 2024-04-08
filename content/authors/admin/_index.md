@@ -53,25 +53,25 @@ skills:
         description: ''
         percent: 80
         icon: rstudio
-        icon_pack: fab
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: <i class="devicon-latex-original colored"></i>
+      - name: LATEX
         description: ''
         percent: 40
         icon: latex
-        icon_pack: fas
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Gym
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: dumbbell
         icon_pack: fas
       - name: Cats
         description: ''
@@ -81,7 +81,7 @@ skills:
       - name: Tennis
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: tennis-ball
         icon_pack: fas
 
 # Social/Academic Networking
