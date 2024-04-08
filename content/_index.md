@@ -303,7 +303,7 @@ sections:
           name: Skype
           link: 'skype:fengqing.chao?call'
         - icon: weixin
-          icon_pack: brands
+          icon_pack: fab
           name: WeChat
           link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
         - icon: video
