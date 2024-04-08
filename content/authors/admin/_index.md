@@ -44,45 +44,45 @@ education:
       institution: National University of Singapore
       year: 2012
 
-# # Skills
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: RStudio
-#         description: ''
-#         percent: 80
-#         icon: devicon/rstudio
-#         icon_pack: devicon
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: LATEX
-#         description: ''
-#         percent: 40
-#         icon: devicon/latex
-#         icon_pack: devicon
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Gym
-#         description: ''
-#         percent: 60
-#         icon: dumbbell
-#         icon_pack: fas
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#         icon_pack: fas
-#       - name: Tennis
-#         description: ''
-#         percent: 80
-#         icon: tennis-ball
-#         icon_pack: fas
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: RStudio
+        description: ''
+        percent: 80
+        icon: devicon/rstudio
+        icon_pack: devicon
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: LATEX
+        description: ''
+        percent: 40
+        icon: devicon/latex
+        icon_pack: devicon
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Gym
+        description: ''
+        percent: 60
+        icon: dumbbell
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Tennis
+        description: ''
+        percent: 80
+        icon: tennis-ball
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
