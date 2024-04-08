@@ -142,5 +142,5 @@ I have published in journals such as *Lancet Global Health*, *Proceedings of the
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
 
-My CV is available [here](https://chaofengqing.github.io/chao_lab/uploads/cv_CHAOFENGQING.pdf). My CUHK (Shenzhen) profile is coming soon.
+My CV is available [here](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf). My CUHK (Shenzhen) profile is coming soon.
 {style="text-align: justify;"}
