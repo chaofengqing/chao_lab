@@ -285,7 +285,7 @@ sections:
       address:
         street: 2001 Longxiang Boulevard
         city: Shenzhen
-        region: Guangdong
+        region: Guangdong, China
         postcode: '518712'
         country: China
         country_code: CN
