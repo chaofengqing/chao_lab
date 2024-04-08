@@ -24,9 +24,8 @@ _Collaborators are listed in alphabetical order of last names._
 | [Patrick Gerland](http://www.researchgate.net/profile/Patrick_Gerland) | UN | Population Division, Department of Economic and Social Affairs |
 | [Christophe Z. Guilmoto](http://www.demographie.net/) | Université de Paris | Centre Population et Développement (CEPED); Institut de recherche pour le développement (IRD) |
 | [Vladimíra Kantorová](https://www.linkedin.com/in/vladimira-kantorova-a5674149) | UN | Population Division, Department of Economic and Social Affairs |
-Analysis (IIASA) | Wittgenstein Centre for Demography |
-| [Samir KC](http://www.wittgensteincentre.org/en/staff/member/kc.htm) | International Institute for Applied Systems | Lucia Hug | UNICEF | Division of Data, Research, and Policy |
-Analysis (IIASA) | Wittgenstein Centre for Demography |
+| [Samir KC](http://www.wittgensteincentre.org/en/staff/member/kc.htm) | International Institute for Applied Systems Analysis (IIASA) | Wittgenstein Centre for Demography |
+Lucia Hug | UNICEF | Division of Data, Research, and Policy |
 | [Bruno Masquelier](https://uclouvain.be/fr/repertoires/bruno.masquelier) | Université catholique de Louvain | Center for Demographic Research |
 | [Hernando Ombao](https://cemse.kaust.edu.sa/biostats/people/person/hernando-ombao) | KAUST | Statistics Program |
 | [Jon Eilif Pedersen](https://cmrjack.org/) | !Mikro | |
