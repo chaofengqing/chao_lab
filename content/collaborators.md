@@ -20,6 +20,7 @@ _Collaborators are listed in alphabetical order of last names._
 | ------------------| ------------|------------------- |
 | [Leontine Alkema](https://leontinealkema.github.io/alkema_lab/) | UMass Amherst | Department of Biostatistics and Epidemiology, School of Public Health & Health Sciences |
 | [Alex R. Cook](https://sph.nus.edu.sg/faculty-directory/cook-alex-richard/) | NUS | Biostatistics and Modelling Domain, Saw Swee Hock School of Public Health |
+| [Jenny Cresswell](https://twitter.com/JennyCresswell) | WHO | Department of Sexual and Reproductive Health and Research |
 | [Patrick Gerland](http://www.researchgate.net/profile/Patrick_Gerland) | UN | Population Division, Department of Economic and Social Affairs |
 | [Christophe Z. Guilmoto](http://www.demographie.net/) | Université de Paris | Centre Population et Développement (CEPED); Institut de recherche pour le développement (IRD) |
 | [Vladimíra Kantorová](https://www.linkedin.com/in/vladimira-kantorova-a5674149) | UN | Population Division, Department of Economic and Social Affairs |
