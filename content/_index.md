@@ -56,21 +56,21 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-      background:
-        image:
-          filename: background_cuhksz.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image:
+  #         filename: background_cuhksz.jpg
+  #         # Apply image filters?
+  #         filters:
+  #           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+  #           brightness: 0.6
   # - block: experience
   #   content:
   #     title: Experience
