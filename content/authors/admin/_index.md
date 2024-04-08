@@ -52,7 +52,7 @@ skills:
       - name: RStudio
         description: ''
         percent: 80
-        icon: rstudio
+        icon: devicon/rstudio
         icon_pack: devicon
       - name: Data Science
         description: ''
@@ -62,7 +62,7 @@ skills:
       - name: LATEX
         description: ''
         percent: 40
-        icon: latex
+        icon: devicon/latex
         icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'

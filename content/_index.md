@@ -56,14 +56,6 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      background:
-        image:
-          filename: background_cuhksz.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
   - block: skills
     content:
       title: Skills
@@ -72,6 +64,13 @@ sections:
       username: admin
     design:
       columns: '1'
+      background:
+        image:
+          filename: background_cuhksz.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
   # - block: experience
   #   content:
   #     title: Experience
@@ -222,6 +221,13 @@ sections:
     design:
       columns: '2'
       view: citation
+      background:
+        image:
+          filename: background_cuhksz.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
   # - block: collection
   #   id: talks
   #   content:
