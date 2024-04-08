@@ -298,14 +298,14 @@ sections:
         latitude: '22.6898'
         longitude: '114.2059'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/FengqingChao'
         - icon: skype
           icon_pack: fab
           name: Skype Me
           link: 'skype:fengqing.chao?call'
+        - icon: wexin
+          icon_pack: fab
+          name: WeChat Me
+          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
         - icon: video
           icon_pack: fas
           name: Zoom Me
