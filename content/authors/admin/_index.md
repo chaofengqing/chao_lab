@@ -51,7 +51,7 @@ skills:
     items:
       - name: RStudio
         description: ''
-        percent: 80
+        percent: 90
         # icon: <i class="devicon-rstudio-plain"></i>
         icon: registered
         icon_pack: fas
@@ -62,7 +62,7 @@ skills:
         icon_pack: fas
       - name: LATEX \& Overleaf
         description: ''
-        percent: 60
+        percent: 80
         icon: overleaf
         icon_pack: ai
   - name: Hobbies
