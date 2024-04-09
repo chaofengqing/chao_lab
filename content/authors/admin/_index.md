@@ -52,19 +52,19 @@ skills:
       - name: RStudio
         description: ''
         percent: 80
-        icon: <i class="devicon-rstudio-plain"></i>
-        # icon: registered
-        # icon_pack: fas
+        # icon: <i class="devicon-rstudio-plain"></i>
+        icon: registered
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: LATEX
+      - name: LATEX \& Overleaf
         description: ''
-        percent: 40
-        icon: devicon/latex
-        # icon_pack: devicon
+        percent: 60
+        icon: overleaf
+        icon_pack: ai
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -79,10 +79,10 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Tennis
+      - name: Strolling
         description: ''
         percent: 80
-        icon: tennis-ball
+        icon: person-walking
         icon_pack: fas
 
 # Social/Academic Networking
