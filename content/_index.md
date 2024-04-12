@@ -313,14 +313,14 @@ sections:
           icon_pack: fab
           name: Skype
           link: 'skype:fengqing.chao?call'
-        - icon: weixin
-          icon_pack: fab
-          name: WeChat
-          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
         - icon: video
           icon_pack: fas
           name: Zoom
           link: 'https://zoom.com'
+        - icon: weixin
+          icon_pack: fab
+          name: WeChat
+          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
       # Automatically link email and phone or display as text?
       autolink: false
       # # Email form provider
