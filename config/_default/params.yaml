@@ -21,7 +21,7 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: '436281434'
+    google_analytics: 'G-CT6T5LKS42'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Fengqing Chao. This work is licensed under {license}'
+    notice: '© 2024--{year} Fengqing Chao. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
