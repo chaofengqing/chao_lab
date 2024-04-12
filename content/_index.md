@@ -75,7 +75,7 @@ sections:
     content:
       title: Experience
       text: |-
-        Positions are current/final positions at each experience period. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
+        Only current/final positions are shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
