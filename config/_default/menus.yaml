@@ -8,7 +8,7 @@ main:
     url: /#about
     weight: 10
   - name: Experience
-    url: 'experience'
+    url: /#experience
     weight: 15
   - name: Projects
     url: /#projects
