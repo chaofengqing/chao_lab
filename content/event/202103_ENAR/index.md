@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Levels and Trends in the Sex Ratio at Birth by Vietnam Region Between 1980 and 2018 with Probabilistic Projections to 2050, a Bayesian Modeling Approach
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: ENAR Spring Meeting
+event_url: https://www.enar.org/meetings/spring2021/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Virtual meeting
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: ENAR Spring Meeting
+abstract: 'The sex ratio at birth (SRB; defined as the ratio of male to female births) in Vietnam has been reported imbalanced since the 2000s. Previous studies have shown variations in the SRB across geographic locations based on survey and census data. Given the lack of reliable administration data on birth in Vietnam, it is crucial to model the levels and trends in the SRB based on a reproducible statistical approach. We use a Bayesian hierarchical time series model to estimate and project SRB in Vietnam by region from 1980 to 2050. The true level of the SRB in a Vietnam region in a certain year is modeled as the sum of two parts. Part 1 captures the baseline SRB value and the year-by-year natrual fluctuation. The natural fluctuation is modeled with an AR(1) time series model on log scale. Part 2 captures the unnatural imbalanced levels of SRB. The parameters related to the SRB imbalance follows normal hierarchical distributions to allow information exchange across Vietnam regions. Model results show that the northern Vietnam is estimated to have the most sever SRB imbalance among all regions, and this trend is projected to continue after 2020.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: "2021-03-16T12:00:00Z"
+date_end: '2021-03-16T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,10 +31,12 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**ENAR**](https://www.enar.org/)'
   focal_point: Right
 
 links:
+  - name: Slides
+    url: https://www.fengqingchao.com/publication/slides31/
   - icon: twitter
     icon_pack: fab
     name: Follow
@@ -57,17 +59,12 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - srb
 ---
 
+Contributed Papers - Time Series Modeling.
+
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Preprint of the paper for this talk is at [here](https://t.co/n0LnLG6xGE?amp=1).
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
