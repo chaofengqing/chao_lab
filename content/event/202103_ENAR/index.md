@@ -37,10 +37,10 @@ image:
 links:
   - name: Slides
     url: https://www.fengqingchao.com/publication/slides31/
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
