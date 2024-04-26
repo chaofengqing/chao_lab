@@ -36,7 +36,7 @@ image:
 
 links:
   - name: Slides
-    url: https://www.fengqingchao.com/publication/slides31/
+    url: https://chaofengqing.github.io/chao_lab/publication/slides31/
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
