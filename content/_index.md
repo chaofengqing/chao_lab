@@ -73,7 +73,7 @@ sections:
             brightness: 0.5
   - block: experience
     id: experience
-     content:
+    content:
       title: Experience
       text: |-
         Only current/final positions are shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
