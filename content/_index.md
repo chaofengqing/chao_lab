@@ -72,7 +72,8 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.5
   - block: experience
-    content:
+    id: experience
+     content:
       title: Experience
       text: |-
         Only current/final positions are shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
