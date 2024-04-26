@@ -62,7 +62,7 @@ projects: ""
 
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Please register for the event [here](https://urldefense.com/v3/__https://forms.office.com/Pages/ResponsePage.aspx?id=2zWeD09UYE-9zF6kFubccCbMXLpK9rROj_qowHBOnQ9UQlc5RUdSMklMUlkxUzFBTjVOTjdZTUw0VS4u__;!!Nmw4Hv0!nqixNYRKoPW7ATkXTouCWvnzo2j9tbAxNEhkItFiY5_DbGqU13ymnvDvWAPqAR9G8GLDZ2Wf$) and click [here](https://urldefense.com/v3/__https://teams.microsoft.com/l/meetup-join/19*3ameeting_YmZlM2RmMTktNmE5MS00NWIwLWE3MDEtZTIzNDk1NTA0Yjky*40thread.v2/0?context=*7b*22Tid*22*3a*220f9e35db-544f-4f60-bdcc-5ea416e6dc70*22*2c*22Oid*22*3a*22ba5ccc26-f64a-4eb4-8ffa-a8c0704e9d0f*22*7d__;JSUlJSUlJSUlJSUlJSUl!!Nmw4Hv0!nqixNYRKoPW7ATkXTouCWvnzo2j9tbAxNEhkItFiY5_DbGqU13ymnvDvWAPqAR9G8J9qGue5$) to join the meeting when it's time.
-{{% /alert %}}
+{{% /callout %}}
 
