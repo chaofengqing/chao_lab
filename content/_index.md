@@ -100,6 +100,14 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
+        - title: Senior Consultant
+          company: WHO
+          company_url: https://www.who.int/
+          company_logo: icon_who
+          location: Remote
+          date_start: '2024-03-01'
+          date_end: '2024-04-30'
+          description: Department of Sexual and Reproductive Health and Research
         - title: Research Scientist
           company: KAUST
           company_url: https://www.kaust.edu.sa/
