@@ -119,7 +119,6 @@ sections:
           date_end: '2019-07-19'
           # description: ''
           description: |2-
-              # Responsibilities include:
 
               * Saw Swee Hock School of Public Health
               * Department of Statistics and Applied Probability
