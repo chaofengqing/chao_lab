@@ -94,12 +94,6 @@ sections:
           date_start: '2024-05-06'
           date_end: ''
           description: Computational Social Science, School of Humanities and Social Science
-          # description: |2-
-          #     Responsibilities include:
-          #
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
         - title: Senior Consultant
           company: WHO
           company_url: https://www.who.int/
@@ -123,7 +117,13 @@ sections:
           location: Singapore
           date_start: '2012-07-10'
           date_end: '2019-07-19'
-          description: ''
+          # description: ''
+          description: |2-
+              # Responsibilities include:
+
+              * Saw Swee Hock School of Public Health
+              * Department of Statistics and Applied Probability
+              * Institute of Policy Studies, Lee Kuan Yew School of Public Policy
     design:
       columns: '2'
   # - block: accomplishments
