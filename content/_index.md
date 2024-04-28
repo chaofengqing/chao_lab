@@ -70,7 +70,7 @@ sections:
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.5
+            brightness: 0.8
   - block: experience
     id: experience
     content:
@@ -284,7 +284,7 @@ sections:
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.7
+            brightness: 0.8
             # Use a fun parallax-like fixed background effect on desktop? true/false
             parallax: true
             # # Text color (true=light, false=dark, or remove for the dynamic theme color).
