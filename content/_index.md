@@ -324,7 +324,7 @@ sections:
         - icon: video
           icon_pack: fas
           name: Zoom
-          link: 'https://zoom.com'
+          link: 'https://cuhk-edu-cn.zoom.us/j/5133885639'
         - icon: weixin
           icon_pack: fab
           name: WeChat
