@@ -67,6 +67,7 @@ sections:
       background:
         image:
           filename: background_cuhksz.jpg
+          text_color_light: true
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
