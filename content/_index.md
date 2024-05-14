@@ -294,9 +294,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: ''
-      # text: |-
-      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: ''
+      text: |-
+        Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
       # Contact (add or remove contact options as necessary)
       email: chaofengqingATcuhk.edu.cn (replace AT with @)
       phone: ''
