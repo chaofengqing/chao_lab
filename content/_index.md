@@ -142,7 +142,8 @@ sections:
           date_end: '2022-06-14'
           date_start: '2022-08-31'
           description: ''
-          icon: icon_harvard
+          company_logo: icon_harvard
+          # icon: icon_harvard
           organization: Harvard's Derek Bok Center for Teaching and Learning
           organization_url: https://pll.harvard.edu/
           title: Harvard BOK Higher Education Teaching Certificate
