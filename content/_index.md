@@ -125,28 +125,28 @@ sections:
               * Institute of Policy Studies, Lee Kuan Yew School of Public Policy
     design:
       columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://harvardx.credential.getsmarter.com/9c6a476b-620f-4846-a12a-c5111dee1931
+          date_end: '2022-06-14'
+          date_start: '2022-08-31'
+          description: ''
+          icon: icon_harvard
+          organization: Harvard's Derek Bok Center for Teaching and Learning
+          organization_url: https://pll.harvard.edu/
+          title: Harvard BOK Higher Education Teaching Certificate
+          url: https://pll.harvard.edu/course/harvard-bok-higher-education-teaching-certificate
   #       - certificate_url: https://www.edx.org
   #         date_end: ''
   #         date_start: '2021-01-01'
@@ -165,8 +165,8 @@ sections:
   #         organization_url: https://www.datacamp.com
   #         title: 'Object-Oriented Programming in R'
   #         url: ''
-    # design:
-    #   columns: '2'
+    design:
+      columns: '2'
   - block: portfolio
     id: projects
     content:
