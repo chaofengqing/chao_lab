@@ -120,6 +120,9 @@ social:
   - icon: figshare
     icon_pack: ai
     link: https://figshare.com/authors/Fengqing_Chao/8914205
+  - icon: clarivate
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/AAN-9221-2020
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
