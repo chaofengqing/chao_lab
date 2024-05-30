@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Image credit: [**&copy; 2018 Chao et al.**](https://www.sciencedirect.com/science/article/pii/S2214109X18300597)
+  caption: 'Image credit: [**&copy; 2018 Chao et al.**](https://www.sciencedirect.com/science/article/pii/S2214109X18300597)'
   focal_point: Smart
 
 links:

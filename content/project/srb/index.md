@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Image credit: [**&copy; 2019 Chao et al.**](https://www.pnas.org/content/116/19/9303)
+  caption: 'Image credit: [**&copy; 2019 Chao et al.**](https://www.pnas.org/content/116/19/9303)'
   focal_point: Smart
 
 links:
