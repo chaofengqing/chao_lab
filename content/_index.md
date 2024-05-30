@@ -56,10 +56,10 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      buttons:
-        - title: Read my latest paper on LLMs
-          icon: brands/arxiv
-          url: https://arxiv.org/abs/2304.01852
+      # buttons:
+      #   - title: Read my latest paper on LLMs
+      #     icon: brands/arxiv
+      #     url: https://arxiv.org/abs/2304.01852
        # button:
       #   text: Download CV
       #   url: files/cv_CHAOFENGQING.pdf
@@ -154,24 +154,6 @@ sections:
           organization_url: https://pll.harvard.edu/
           title: Harvard BOK Higher Education Teaching Certificate
           url: https://pll.harvard.edu/course/harvard-bok-higher-education-teaching-certificate
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         icon: edx
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         icon: datacamp
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
     design:
       columns: '2'
   - block: portfolio
