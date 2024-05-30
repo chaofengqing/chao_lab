@@ -56,6 +56,13 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      button:
+        text: Download CV
+        url: files/cv_CHAOFENGQING.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
   - block: skills
     content:
       title: Skills
