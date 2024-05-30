@@ -59,10 +59,6 @@ sections:
       button:
         text: Download CV
         url: files/cv_CHAOFENGQING.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
   - block: skills
     content:
       title: Skills
