@@ -148,8 +148,7 @@ sections:
         - certificate_url: https://harvardx.credential.getsmarter.com/9c6a476b-620f-4846-a12a-c5111dee1931
           date_end: '2022-08-31'
           date_start: '2022-06-14'
-          description: ''
-          # company_logo: icon_harvard
+          description: 'Explore Higher Education Teaching and its practices. Learn to create a collaborative, engaging learning environment.'
           icon: harvard
           organization: Harvard's Derek Bok Center for Teaching and Learning
           organization_url: https://pll.harvard.edu/
