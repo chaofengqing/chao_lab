@@ -56,9 +56,13 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      button:
-        text: Download CV
-        url: files/cv_CHAOFENGQING.pdf
+      buttons:
+        - title: Read my latest paper on LLMs
+          icon: brands/arxiv
+          url: https://arxiv.org/abs/2304.01852
+       # button:
+      #   text: Download CV
+      #   url: files/cv_CHAOFENGQING.pdf
   - block: skills
     content:
       title: Skills
@@ -145,8 +149,8 @@ sections:
           date_end: '2022-06-14'
           date_start: '2022-08-31'
           description: ''
-          company_logo: icon_harvard
-          # icon: icon_harvard
+          # company_logo: icon_harvard
+          icon: harvard
           organization: Harvard's Derek Bok Center for Teaching and Learning
           organization_url: https://pll.harvard.edu/
           title: Harvard BOK Higher Education Teaching Certificate
