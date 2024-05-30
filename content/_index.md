@@ -329,7 +329,7 @@ sections:
         - icon: weixin
           icon_pack: fab
           name: WeChat
-          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.png'
+          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.jpg'
       # Automatically link email and phone or display as text?
       autolink: false
       # # Email form provider
