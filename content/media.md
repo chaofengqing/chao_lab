@@ -15,6 +15,9 @@ padding = ["20px", "0", "20px", "0"]
 
 _Media coverage are listed in alphabetical order of news outlets._
 
+## **2024**
+[KAUST Discovery](https://discovery.kaust.edu.sa/en/article/22993/global-look-at-sex-differences-in-young-peoples-mortality/). Jan 14, 2024. ``Global look at sex differences in young people's mortality''
+
 ## **2021**
 [1News.az](https://1news.az/news/20210803022259507-Issledovanie-Obshcee-kolichestvo-nerozhdennykh-devochek-v-Azerbaidzhane-sostavit-okolo-200-tysyach). Aug 3, 2021. ``Исследование: Общее количество нерожденных девочек в Азербайджане составит около 200 тысяч''
 
