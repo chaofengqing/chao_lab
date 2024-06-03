@@ -1,24 +1,21 @@
 ---
-title: "Explanatory Notes: Child mortality trend series to 2017"
+title: "Explanatory Notes: Child, adolescent and youth mortality trend series to 2022"
 authors:
 - United Nations Inter-agency Group for Child Mortality Estimation (UN IGME)
-date: "2018-04-01T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Publication type: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
 publication_types: ["document"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *United Nations Inter-agency Group for Child Mortality Estimation*
 # publication_short: In *UN IGME*
 
-# abstract: The progress in reducing the under-5 mortality rate (U5MR) since 1990 has been remarkable but uneven within countries between urban and rural populations. While trend U5MR estimates have been published frequently, an analysis of U5MR by urban and rural area has not been available across countries over time. In this paper, we provide annual estimates of U5MR among urban residence for 109 countries from 1990 to 2018 using a Bayesian time series model and assess the corresponding uncer- tainty. The analyses are based on an extensive database complied from surveys (including DHS, MICS, RHS, PAPFAM, PAPCHILD), censuses, and vital registration system. We present results for selected countries and identify country-years with the highest disparities in U5MR between urban area and national level.
+abstract: The United Nations Inter-agency Group for Child Mortality Estimation (UN IGME), which includes members from UNICEF, WHO, the World Bank and United Nations Population Division, was established in 2004 to advance the work on monitoring progress towards the achievement of Millennium Development Goals regarding child mortality.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,19 +27,19 @@ featured: false
 links:
 # - name: PAA conference website
 #  url: http://www.populationassociation.org/
-url_pdf: files/others2_2018_UNIGME_Explanatory-Notes-Child-mortality-trend-series-to-2017.pdf
+url_pdf: files/others6_2024_UNIGME_Estimation-method-for-child-mortality-Used-in-Level-and-Trends-of-Child-mortality-Report-2022.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://childmortality.org/wp-content/uploads/2018/12/English_IGME_country_consultation_note.pdf
+url_source: https://childmortality.org/wp-content/uploads/2024/03/UN-IGME_explanatory-note_EN_2023.pdf
 # url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**2018 UN IGME**](https://childmortality.org/)'
+  caption: 'Image credit: [**2024 UN IGME**](https://childmortality.org/)'
   focal_point: left
   preview_only: false
 
@@ -62,5 +59,5 @@ projects:
 slides: ""
 ---
 
-I was not directly involved in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimates by sex, pp 8--10_) in this report by the [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
+I was not directly involved in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimation of U5MR and IMR by sex, pp 9--12 and Section 8 Estimation of mortality rates among children aged 5--14 and youth aged 15--24 by sex, pp 13--14_) in this report by the [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
 This is an example of how my research finds its application in real life and helps with policy making and strategic planning.

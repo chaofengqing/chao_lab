@@ -59,6 +59,5 @@ projects:
 slides: ""
 ---
 
-I was not directly involded in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimates by sex, pp 7--9_) in this report by the
-[UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
+I was not directly involved in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimates by sex, pp 7--9_) in this report by the [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
 This is an example of how my research finds its application in real life and helps with policy making and strategic planning.

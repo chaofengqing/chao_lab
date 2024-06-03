@@ -3,7 +3,7 @@ title: "World Population Prospects 2022: Methodology of the United Nations popul
 authors:
 - United Nations, Department of Economic and Social Affairs, Population Division
 author_notes:
-- "The *2022 Revision of the World Population Prospects* was prepared by a team. I was one of them."
+- "The 2022 Revision of the World Population Prospects was prepared by a team. I was one of them."
 date: "2022-07-01T00:00:00Z"
 doi: ""
 
