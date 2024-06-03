@@ -283,9 +283,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      # text: ''
-      text: |-
-        Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
+      text: ''
+      # text: |-
+      #   Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
       # Contact (add or remove contact options as necessary)
       email: chaofengqingATcuhk.edu.cn (replace AT with @)
       phone: ''
@@ -294,10 +294,10 @@ sections:
         street: 2001 Longxiang Boulevard
         city: Shenzhen
         region: Guangdong, China
-        postcode: '518712'
+        postcode: '518172'
         country: China
         country_code: CN
-      directions: Office 218, Level 2, Zhi Xin Building
+      directions: Office 218, Zhi Xin Building
       office_hours:
         - 'Office hours for students'
         - 'TBD'
@@ -314,10 +314,10 @@ sections:
           icon_pack: fas
           name: Zoom
           link: 'https://cuhk-edu-cn.zoom.us/j/5133885639'
-        - icon: weixin
-          icon_pack: fab
-          name: WeChat
-          link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.jpg'
+        # - icon: weixin
+        #   icon_pack: fab
+        #   name: WeChat
+        #   link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.jpg'
       # Automatically link email and phone or display as text?
       autolink: false
       # # Email form provider
