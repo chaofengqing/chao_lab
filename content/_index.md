@@ -297,10 +297,10 @@ sections:
         postcode: '518172'
         country: China
         country_code: CN
-      directions: Office 218, Zhi Xin Building
+      directions: Office 911, Teaching Complex B
       office_hours:
-        - 'Office hours for students'
-        - 'TBD'
+        - 'Office hours for students (AY 24/25 Sem 1)'
+        - 'Friday 830am--1130am'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '22.6898'
