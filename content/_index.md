@@ -300,7 +300,7 @@ sections:
       directions: Office 911, Teaching Complex B
       office_hours:
         - 'Office hours for students (AY 24/25 Sem 1)'
-        - 'Friday 830am--1130am'
+        - 'Thursday 330pm--5pm'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '22.6898'
