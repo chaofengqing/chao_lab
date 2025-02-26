@@ -35,7 +35,7 @@ url_pdf: files/others5_2022_UNDESA_Methodology_of_United_Nations_population_esti
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2022_wpp_methodology_report.pdf
+url_source: https://population.un.org/wpp/Publications/Files/WPP2022_Methodology.pdf
 # url_video: '#'
 
 # Featured image
