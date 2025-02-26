@@ -38,7 +38,7 @@ url_pdf: files/others4_2023_UNDESA_Estimating-age-specific-fertility-rate-in-Wor
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-# url_source: https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2023_technical-paper_asfr.pdf
+url_source: https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2023_technical-paper_asfr.pdf
 # url_video: '#'
 
 # Featured image
