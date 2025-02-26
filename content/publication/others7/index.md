@@ -1,10 +1,10 @@
 ---
-title: "World Population Prospects 2024: Methodology of the United Nations population estimates and projections"
+title: "World Population Prospects 2022: Methodology of the United Nations population estimates and projections"
 authors:
 - United Nations, Department of Economic and Social Affairs, Population Division
 author_notes:
-- "The 2024 Revision of the World Population Prospects was prepared by a team. I was one of them."
-date: "2024-07-01T00:00:00Z"
+- "The 2022 Revision of the World Population Prospects was prepared by a team. I was one of them."
+date: "2022-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["document"]
 publication: In *United Nations, Department of Economic and Social Affairs, Population Division*
 # publication_short: In *UN IGME*
 
-abstract: This report provides a detailed overview of the methodology used to produce the *2024 Revision* of the official United Nations population estimates and projections, prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat. The *2024 Revision* is the twenty-seventh round of global population estimates and projections produced by the Population Division since 1951.
+abstract: This report provides a detailed overview of the methodology used to produce the *2022 Revision* of the official United Nations population estimates and projections, prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat. The *2022 Revision* is the twenty-seventh round of global population estimates and projections produced by the Population Division since 1951.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,13 +29,13 @@ featured: false
 links:
 # - name: PAA conference website
 #  url: http://www.populationassociation.org/
-url_pdf: files/others7_2024_UNDESA_Methodology_of_United_Nations_population_estimates_and_projections.pdf
+url_pdf: files/others5_2022_UNDESA_Methodology_of_United_Nations_population_estimates_and_projections.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/files/documents/2024/Jul/undesa_pd_2024_wpp2024_methodology-report.pdf
+url_source: https://population.un.org/wpp/Publications/Files/WPP2022_Methodology.pdf
 # url_video: '#'
 
 # Featured image
