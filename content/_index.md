@@ -306,18 +306,10 @@ sections:
         latitude: '22.6898'
         longitude: '114.2059'  
       contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype
-          link: 'skype:fengqing.chao?call'
         - icon: video
           icon_pack: fas
           name: Zoom
           link: 'https://cuhk-edu-cn.zoom.us/j/5133885639'
-        # - icon: weixin
-        #   icon_pack: fab
-        #   name: WeChat
-        #   link: 'https://chaofengqing.github.io/chao_lab/images/wechat_QR.jpg'
       # Automatically link email and phone or display as text?
       autolink: false
       # # Email form provider
