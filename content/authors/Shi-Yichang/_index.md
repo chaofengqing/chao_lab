@@ -25,21 +25,25 @@ organizations:
 bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Statistics
+  - Spatial Analysis & Modelling
+  - Public Health
+  - Urbanization
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Social Science
+      institution: Chinese University of Hong Kong (Shenzhen)
+      year: 2025--
+    - course: MSc in Computational Social Science
+      institution: Chinese University of Hong Kong (Shenzhen)
+      year: 2025
+    - course: MSc in Applied Geographic Information Systems
+      institution: National University of Singapore
+      year: 
+    - course: BEng in Urban and Rural Planning
+      institution: Sun Yat-sen University
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
