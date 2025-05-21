@@ -136,6 +136,11 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Principal Investigator
 ---
 
 I am an Assistant Professor in the [School of Humanities and Social Science](https://hss.cuhk.edu.cn/en) at CUHK (Shenzhen). I am a statistician with research interests in demography and global health.
