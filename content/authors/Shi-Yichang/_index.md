@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yifei Su
+title: Yichang Shi
 
 # Full name (for SEO)
-first_name: Yifei
-last_name: Su
+first_name: Yichang
+last_name: Shi
 
 # Username (this should match the folder name)
 authors:
-  - Su-Yifei
+  - Shi-Yichang
 
 # Is this the primary user of the site?
 superuser: false
@@ -51,7 +51,7 @@ social:
     link: 'mailto:yifeisu@link.cuhk.edu.cn'
   - icon: globe
     icon_pack: fas
-    link: https://lorrine-d.github.io/shiki.github.io/
+    link: https://helensyc.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
