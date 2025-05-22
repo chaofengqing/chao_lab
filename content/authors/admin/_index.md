@@ -144,7 +144,10 @@ user_groups:
 ---
 
 I am an Assistant Professor in the [School of Humanities and Social Science](https://hss.cuhk.edu.cn/en) at CUHK (Shenzhen). I am a statistician with research interests in demography and global health.
-{{< video src="cuhksz_hss_chaolab.mp4" controls="yes" >}}
+{{< video 
+    src="cuhksz_hss_chaolab.mp4" 
+    controls="yes" 
+    caption="Chao Lab video" >}}
 I have been collaborating with [UNICEF](https://www.unicef.org/), specifically the [UN Inter-agency Group for Child Mortality Estimation](https://childmortality.org/), since 2012 on developing statistical models to estimate child and adolescent mortality disparities between sex, economic status, and place of residence. I have also been working with the [UN Population Division](https://www.un.org/development/desa/pd/) since 2013 on estimating and projecting sex ratio at birth, age-specific fertility rates, and sex-specific adult mortality rates using Bayesian approaches. Since 2024, I started to collaborate with the [WHO Sexual and Reproductive Health and Research Department](https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/human-reproduction-programme).
 
 I have published in journals such as *Lancet Global Health*, *Proceedings of the National Academy of Sciences*, and *Annals of Applied Statistics*.
