@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
-      year: 2025--
+      year: 2025-present
     - course: MSc in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
       year: 2025

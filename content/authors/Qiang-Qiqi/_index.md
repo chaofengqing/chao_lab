@@ -33,7 +33,7 @@ education:
   courses:
     - course: MSc in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
-      year: 2024--
+      year: 2024-present
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
