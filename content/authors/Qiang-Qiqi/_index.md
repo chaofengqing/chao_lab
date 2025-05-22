@@ -25,21 +25,22 @@ organizations:
 bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
 
 interests:
-  # - Computers in Human Behavior
-  # - Applied Statistics
-  # - Public Health
+  - LLM
+  - Bayesian Modeling
+  - Machine Learning
+  - Computational Social Science
 
 education:
   courses:
     - course: MSc in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
-      year: 2024-present
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
+      year: 2026 (expected)
+    - course: BSc in Big data Management and Application
+      institution: Zhongnan University of Economics and Law
+      year: 2024
+    - course: BSc (minor) in Financial Engineering
+      institution: Zhongnan University of Economics and Law
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,15 +50,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qiqiqiang@link.cuhk.edu.cn'
-  # - icon: globe
-  #   icon_pack: fas
-  #   link: https://lorrine-d.github.io/shiki.github.io/
+  - icon: globe
+    icon_pack: fas
+    link: https://loofla.github.io/academicpages.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/loofla
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
