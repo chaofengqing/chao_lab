@@ -16,12 +16,14 @@ main:
   - name: Projects
     url: /#projects
     weight: 20
-  - name: Featured Work
-    url: 'featured-publications'
-    weight: 30
   - name: Publications
     url: 'publication'
-    weight: 35
+    weight: 30
+    identifier: 'pub_parent'
+  - name: Featured Work
+    url: 'featured-publications'
+    parent: 'pub_parent'
+    # weight: 30
   - name: Collaborators
     url: 'collaborators'
     weight: 36
