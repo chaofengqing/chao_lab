@@ -35,7 +35,7 @@ main:
     weight: 30
     identifier: 'pub_parent'
   - name: Projects
-    url: /#projects
+    url: 'projects'
     parent: 'pub_parent'
     weight: 1
   - name: Featured Articles

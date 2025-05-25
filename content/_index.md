@@ -78,58 +78,33 @@ sections:
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.8
-  # - block: accomplishments
-  #   id: accomplishments
+  # - block: portfolio
+  #   id: projects
   #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://harvardx.credential.getsmarter.com/9c6a476b-620f-4846-a12a-c5111dee1931
-  #         date_end: '2022-08-31'
-  #         date_start: '2022-06-14'
-  #         description: 'Explore Higher Education Teaching and its practices. Learn to create a collaborative, engaging learning environment.'
-  #         icon: harvard
-  #         organization: Harvard's Derek Bok Center for Teaching and Learning
-  #         organization_url: https://pll.harvard.edu/
-  #         title: Harvard BOK Higher Education Teaching Certificate
-  #         url: https://pll.harvard.edu/course/harvard-bok-higher-education-teaching-certificate
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: Statistical Demography
+  #         tag: Statistical Demography
+  #       - name: Other
+  #         tag: Demo
   #   design:
-  #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Statistical Demography
-          tag: Statistical Demography
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
