@@ -23,19 +23,25 @@ main:
   - name: Lab
     url: /people
     weight: 11
-  - name: Projects
-    url: /#projects
-    weight: 20
+  # - name: Projects
+  #   url: /#projects
+  #   weight: 20
   - name: Research
     url: 'publication'
     weight: 30
     identifier: 'pub_parent'
+  - name: Projects
+    url: /#projects
+    parent: 'pub_parent'
+    weight: 1
   - name: Featured Articles
     url: 'featured-publications'
     parent: 'pub_parent'
+    weight: 2
   - name: Full Publications
     url: 'publication'
     parent: 'pub_parent'
+    weight: 3
   - name: Collaborators
     url: 'collaborators'
     weight: 36
