@@ -4,15 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: /#about
     weight: 10
+    identifier: 'about_parent'
+  - name: Experience
+    url: /#experience
+    parent: 'about_parent'
+    #weight: 15
   - name: Lab
     url: /people
     weight: 11
-  - name: Experience
-    url: /#experience
-    weight: 15
   - name: Projects
     url: /#projects
     weight: 20
