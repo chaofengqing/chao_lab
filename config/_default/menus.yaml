@@ -8,18 +8,22 @@ main:
     url: /about
     weight: 10
     identifier: 'about_parent'
+  - name: Bio
+    url: /#about
+    parent: 'about_parent'
+    weight: 1
   - name: Experience
     url: /#experience
     parent: 'about_parent'
-    weight: 1
+    weight: 2
   - name: Accomplishments
     url: /#accomplishments
     parent: 'about_parent'
-    weight: 2
+    weight: 3
   - name: CV
     url: 'files/cv_CHAOFENGQING.pdf'
     parent: 'about_parent'
-    weight: 3
+    weight: 4
   - name: Lab
     url: /people
     weight: 11
