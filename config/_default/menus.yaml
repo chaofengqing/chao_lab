@@ -12,6 +12,12 @@ main:
     url: /#experience
     parent: 'about_parent'
     #weight: 15
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+  - name: CV
+    url: 'files/cv_CHAOFENGQING.pdf'
+    parent: 'about_parent'
+    #weight: 70
   - name: Lab
     url: /people
     weight: 11
@@ -43,8 +49,3 @@ main:
   - name: Contact
     url: /#contact
     weight: 60
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: 'files/cv_CHAOFENGQING.pdf'
-    weight: 70
