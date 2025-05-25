@@ -20,10 +20,12 @@ main:
     url: 'publication'
     weight: 30
     identifier: 'pub_parent'
-  - name: Featured Work
+  - name: Featured Articles
     url: 'featured-publications'
     parent: 'pub_parent'
-    # weight: 30
+  - name: Full Publications
+    url: 'publications'
+    parent: 'pub_parent'
   - name: Collaborators
     url: 'collaborators'
     weight: 36
