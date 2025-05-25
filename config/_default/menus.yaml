@@ -5,15 +5,13 @@
 
 main:
   - name: About
-    url: /#about
+    url: /about
     weight: 10
     identifier: 'about_parent'
   - name: Experience
     url: /#experience
     parent: 'about_parent'
     #weight: 15
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: 'files/cv_CHAOFENGQING.pdf'
     parent: 'about_parent'
@@ -24,7 +22,7 @@ main:
   - name: Projects
     url: /#projects
     weight: 20
-  - name: Publications
+  - name: Research
     url: 'publication'
     weight: 30
     identifier: 'pub_parent'
