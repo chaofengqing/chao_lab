@@ -324,5 +324,3 @@ sections:
     design:
       columns: '2'
 ---
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CYYxZZT71V-5xGdvhLaAmlFifixJw467byRBOKHiM_8&cl=ffffff&w=a"></script>
