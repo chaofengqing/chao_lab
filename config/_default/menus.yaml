@@ -11,11 +11,15 @@ main:
   - name: Experience
     url: /#experience
     parent: 'about_parent'
-    #weight: 15
+    weight: 1
+  - name: Accomplishments
+    url: /#accomplishments
+    parent: 'about_parent'
+    weight: 2
   - name: CV
     url: 'files/cv_CHAOFENGQING.pdf'
     parent: 'about_parent'
-    #weight: 70
+    weight: 3
   - name: Lab
     url: /people
     weight: 11
