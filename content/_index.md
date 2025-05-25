@@ -78,33 +78,6 @@ sections:
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
             brightness: 0.8
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #     default_button_index: 0
-  #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
-  #     # To show all items, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: '*'
-  #       - name: Statistical Demography
-  #         tag: Statistical Demography
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -200,48 +173,48 @@ sections:
             parallax: true
             # # Text color (true=light, false=dark, or remove for the dynamic theme color).
             # text_color_light: true
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: ''
-      # text: |-
-      #   Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
-      # Contact (add or remove contact options as necessary)
-      email: chaofengqingATcuhk.edu.cn (replace AT with @)
-      phone: ''
-      appointment_url: ''
-      address:
-        street: 2001 Longxiang Boulevard
-        city: Shenzhen
-        region: Guangdong, China
-        postcode: '518172'
-        country: China
-        country_code: CN
-      directions: Office 921, Teaching Complex B
-      office_hours:
-        - 'Office hours for CUHKSZ students (AY 24/25 Sem II)'
-        - 'Tue 1pm--2pm (appointment needed)'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '22.6898'
-        longitude: '114.2059'  
-      contact_links:
-        - icon: video
-          icon_pack: fas
-          name: Zoom
-          link: 'https://cuhk-edu-cn.zoom.us/j/5133885639'
-      # Automatically link email and phone or display as text?
-      autolink: false
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
-    design:
-      columns: '2'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: ''
+  #     # text: |-
+  #     #   Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
+  #     # Contact (add or remove contact options as necessary)
+  #     email: chaofengqingATcuhk.edu.cn (replace AT with @)
+  #     phone: ''
+  #     appointment_url: ''
+  #     address:
+  #       street: 2001 Longxiang Boulevard
+  #       city: Shenzhen
+  #       region: Guangdong, China
+  #       postcode: '518172'
+  #       country: China
+  #       country_code: CN
+  #     directions: Office 921, Teaching Complex B
+  #     office_hours:
+  #       - 'Office hours for CUHKSZ students (AY 24/25 Sem II)'
+  #       - 'Tue 1pm--2pm (appointment needed)'
+  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates:
+  #       latitude: '22.6898'
+  #       longitude: '114.2059'  
+  #     contact_links:
+  #       - icon: video
+  #         icon_pack: fas
+  #         name: Zoom
+  #         link: 'https://cuhk-edu-cn.zoom.us/j/5133885639'
+  #     # Automatically link email and phone or display as text?
+  #     autolink: false
+  #     # # Email form provider
+  #     # form:
+  #     #   provider: netlify
+  #     #   formspree:
+  #     #     id:
+  #     #   netlify:
+  #     #     # Enable CAPTCHA challenge to reduce spam?
+  #     #     captcha: false
+  #   design:
+  #     columns: '2'
 ---

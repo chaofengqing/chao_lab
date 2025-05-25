@@ -27,9 +27,6 @@ main:
   - name: Lab
     url: /people
     weight: 11
-  # - name: Projects
-  #   url: /#projects
-  #   weight: 20
   - name: Research
     url: 'publication'
     weight: 30
@@ -59,5 +56,5 @@ main:
     url: 'media'
     weight: 41
   - name: Contact
-    url: /#contact
+    url: 'contact'
     weight: 60
