@@ -301,7 +301,7 @@ sections:
       directions: Office 921, Teaching Complex B
       office_hours:
         - 'Office hours for CUHKSZ students (AY 24/25 Sem II)'
-        - 'Tue 1pm--2pm (appo. needed)'
+        - 'Tue 1pm--2pm (appointment needed)'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '22.6898'
@@ -324,3 +324,5 @@ sections:
     design:
       columns: '2'
 ---
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CYYxZZT71V-5xGdvhLaAmlFifixJw467byRBOKHiM_8&cl=ffffff&w=a"></script>
