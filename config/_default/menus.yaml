@@ -13,7 +13,7 @@ main:
     parent: 'about_parent'
     weight: 1
   - name: Experience
-    url: 'experience'
+    url: /#experience
     parent: 'about_parent'
     weight: 2
   - name: Accomplishments
