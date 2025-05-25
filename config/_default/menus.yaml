@@ -17,7 +17,7 @@ main:
     parent: 'about_parent'
     weight: 2
   - name: Accomplishments
-    url: /#accomplishments
+    url: 'accomplishments'
     parent: 'about_parent'
     weight: 3
   - name: CV
