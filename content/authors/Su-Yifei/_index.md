@@ -34,12 +34,12 @@ education:
     - course: PhD in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
       year: 2024-present
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
+    - course: MSc in in Information Studies
+      institution: Nanyang Technological University
+      year: 2024
+    - course: BCompSc in Computer Science
+      institution: Harbin Institute of Technology (Weihai)
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
