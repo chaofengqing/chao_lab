@@ -152,6 +152,4 @@ I have been collaborating with [UNICEF](https://www.unicef.org/), specifically t
 I have published in journals such as *Lancet Global Health*, *Proceedings of the National Academy of Sciences*, and *Annals of Applied Statistics*.
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
-
-#  My CUHK (Shenzhen) profile is [here](https://myweb.cuhk.edu.cn/chaofengqing).
 {style="text-align: justify;"}
