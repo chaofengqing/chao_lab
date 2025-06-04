@@ -143,7 +143,7 @@ user_groups:
   - Principal Investigator
 ---
 
-I am an Assistant Professor in the [School of Humanities and Social Science](https://hss.cuhk.edu.cn/en) at CUHK (Shenzhen). I am a statistician with research interests in demography and global health.
+I am an Assistant Professor in the [School of Humanities and Social Science](https://hss.cuhk.edu.cn/en) at CUHK (Shenzhen). I am a statistician with research interests in demography and global health. My CV is available [here](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
 {{< video 
     src="cuhksz_hss_chaolab.mp4" 
     controls="yes" >}}
@@ -153,5 +153,5 @@ I have published in journals such as *Lancet Global Health*, *Proceedings of the
 
 Fengqing is my given name, and the closest English pronunciation is "Fung-Ching". Chao is my family name, pronounced as it is spelled.
 
-My CV is available [here](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf). My CUHK (Shenzhen) profile is [here](https://myweb.cuhk.edu.cn/chaofengqing).
+#  My CUHK (Shenzhen) profile is [here](https://myweb.cuhk.edu.cn/chaofengqing).
 {style="text-align: justify;"}
