@@ -93,13 +93,13 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: x # twitter
     icon_pack: fab
     link: https://twitter.com/FengqingChao
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=r8PB6loAAAAJ&hl=en
   - icon: orcid
