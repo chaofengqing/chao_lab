@@ -56,10 +56,10 @@ sections:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      buttons:
-        - title: Read my latest paper on LLMs
-          icon: brands/arxiv
-          url: https://arxiv.org/abs/2304.01852
+      # buttons:
+      #   - title: Read my latest paper on LLMs
+      #     icon: brands/arxiv
+      #     url: https://arxiv.org/abs/2304.01852
       # button:
       #   text: Download CV
       #   url: files/cv_CHAOFENGQING.pdf

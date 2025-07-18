@@ -46,15 +46,27 @@ main:
   - name: Collaborators
     url: 'collaborators'
     weight: 36
+  - name: Outreach
+    url: 'publication'
+    weight: 37
+    identifier: 'out_parent'
   - name: Talks
     url: 'event'
-    weight: 37
+    parent: 'out_parent'
+    weight: 1
+  - name: Media
+    url: 'media'
+    parent: 'out_parent'
+    weight: 2
+  # - name: Talks
+  #   url: 'event'
+  #   weight: 37
   - name: Posts
     url: 'post'
     weight: 40
-  - name: Media
-    url: 'media'
-    weight: 41
+  # - name: Media
+  #   url: 'media'
+  #   weight: 41
   - name: Contact
     url: 'contact'
     weight: 60
