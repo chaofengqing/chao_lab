@@ -58,15 +58,9 @@ main:
     url: 'media'
     parent: 'out_parent'
     weight: 2
-  # - name: Talks
-  #   url: 'event'
-  #   weight: 37
   - name: Posts
     url: 'post'
     weight: 40
-  # - name: Media
-  #   url: 'media'
-  #   weight: 41
   - name: Contact
     url: 'contact'
     weight: 60
