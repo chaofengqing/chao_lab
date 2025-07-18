@@ -60,9 +60,9 @@ sections:
       #   - title: Read my latest paper on LLMs
       #     icon: brands/arxiv
       #     url: https://arxiv.org/abs/2304.01852
-      buttons:
-        text: Download CV
-        url: files/cv_CHAOFENGQING.pdf
+      button:
+        - text: Download CV
+          url: files/cv_CHAOFENGQING.pdf
   - block: skills
     content:
       title: Skills
