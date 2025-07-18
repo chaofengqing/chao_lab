@@ -61,8 +61,11 @@ sections:
       #     icon: brands/arxiv
       #     url: https://arxiv.org/abs/2304.01852
       button:
-        - text: Download CV
-          url: files/cv_CHAOFENGQING.pdf
+        text: Download CV
+        url: files/cv_CHAOFENGQING.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
   - block: skills
     content:
       title: Skills
