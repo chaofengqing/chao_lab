@@ -11,7 +11,7 @@ sections:
       subtitle:
       text: ''
       # text: |-
-      #   Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
+      #   Email is the preferred way to reach me.
       # Contact (add or remove contact options as necessary)
       email: chaofengqing[AT]cuhk.edu.cn
       phone: ''
