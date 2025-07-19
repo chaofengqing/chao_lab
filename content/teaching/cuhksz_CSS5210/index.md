@@ -6,6 +6,7 @@ type: docs
 math: true
 tags:
   - CSS
+  - stats
 image:
   caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1'
   preview_only: true
