@@ -23,7 +23,7 @@ sections:
         postcode: '518172'
         country: China
         country_code: CN
-      directions: Office 921, Teaching Complex B
+      directions: TXB 921
       office_hours:
         - 'Office hours for CUHKSZ students (AY 24/25 Sem II)'
         - 'Tue 1pm--2pm (appointment needed)'
