@@ -1,9 +1,9 @@
 ---
 title: CSS5020 Statistics for Social Science
 summary: Postgraduate course for CUHKSZ Computational Social Science students
-date: 2023-10-24
+date: 2025-07-19
 type: docs
-math: false
+math: true
 tags:
   - CSS
 image:
