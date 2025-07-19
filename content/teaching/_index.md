@@ -33,3 +33,5 @@ sections:
       fill_image: false
       columns: 3
 ---
+
+Course icons: created using Birdtrack Notation via ChatGPT-4.1.
