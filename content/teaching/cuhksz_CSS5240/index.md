@@ -1,13 +1,13 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: CSS5240 Data Visualization for Social Science
+summary: Postgraduate course for CUHKSZ Computational Social Science students
+date: 2025-07-19
 type: docs
-math: false
+math: true
 tags:
-  - Python
+  - CSS
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1.'
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.

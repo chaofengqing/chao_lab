@@ -1,13 +1,13 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: CSS5020 Statistics for Social Science
+summary: Postgraduate course for CUHKSZ Computational Social Science students
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - CSS
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1.'
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
