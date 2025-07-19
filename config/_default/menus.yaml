@@ -24,12 +24,9 @@ main:
     url: 'files/cv_CHAOFENGQING.pdf'
     parent: 'about_parent'
     weight: 4
-  - name: Lab
-    url: /people
-    weight: 11
   - name: Research
     url: 'publication'
-    weight: 30
+    weight: 20
     identifier: 'pub_parent'
   - name: Projects
     url: 'projects'
@@ -43,6 +40,9 @@ main:
     url: 'publication'
     parent: 'pub_parent'
     weight: 3
+  - name: Lab
+    url: /people
+    weight: 21
   - name: Collaborators
     url: 'collaborators'
     weight: 36
