@@ -19,7 +19,7 @@ sections:
     content:
       title: Teaching
       subtitle: Here is a list of courses that I have taught over the years. Course icons were created using Birdtrack Notation via ChatGPT-4.1.
-      text: ''
+      text: Play around with the filters below to find out the study field and technical skills covered among courses. 
       filters:
         folders:
           - teaching
@@ -33,17 +33,17 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Computational Social Science
-          tag: CSS
-        - name: Statistics
-          tag: stats
-        - name: R programming
+       - name: R programming
           tag: r
         - name: JAGS programming
           tag: jags
         - name: LaTeX
           tag: latex
-    # design:
+        - name: Statistics
+          tag: stats
+        - name: Computational Social Science
+          tag: CSS
+     # design:
     #   view: article-grid
     #   fill_image: false
     #   columns: '3'
