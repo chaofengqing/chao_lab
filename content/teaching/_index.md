@@ -19,7 +19,7 @@ sections:
     content:
       title: Teaching
       subtitle: Here is a list of courses that I have taught over the years. Course icons were created using Birdtrack Notation via ChatGPT-4.1.
-      text: Play around with the filters below to find out the study field and technical skills covered among courses. 
+      text: ''
       filters:
         folders:
           - teaching
