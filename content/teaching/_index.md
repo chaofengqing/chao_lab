@@ -29,8 +29,8 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid
+      view: card # article-grid
       fill_image: false
-      columns: 3
+      columns: '3'
 ---
 
