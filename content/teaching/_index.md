@@ -3,12 +3,6 @@ title: Teaching
 summary: My courses
 type: landing
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
 cascade:
   - _target:
       kind: page
@@ -20,7 +14,7 @@ design:
   spacing: '5rem'
 
 sections:
-  - block: collection
+  - block: portfolio # collection
     id: teaching
     content:
       title: Teaching
@@ -28,9 +22,29 @@ sections:
       filters:
         folders:
           - teaching
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Computational Social Science
+          tag: CSS
+        - name: Statistics
+          tag: stats
+    # design:
+    #   view: card # article-grid
+    #   fill_image: false
+    #   columns: '3'
     design:
-      view: card # article-grid
-      fill_image: false
-      columns: '3'
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 ---
 
