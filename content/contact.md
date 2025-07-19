@@ -13,7 +13,7 @@ sections:
       # text: |-
       #   Email is the preferred way to reach me. If you have to contact via WeChat, make sure to state your purpose.
       # Contact (add or remove contact options as necessary)
-      email: chaofengqingATcuhk.edu.cn (replace AT with @)
+      email: chaofengqing[AT]cuhk.edu.cn
       phone: ''
       appointment_url: ''
       address:
@@ -25,8 +25,8 @@ sections:
         country_code: CN
       directions: TXB 921
       office_hours:
-        - 'Office hours for CUHKSZ students (AY 24/25 Sem II)'
-        - 'Tue 1pm--2pm (appointment needed)'
+        - 'Office hour for CUHKSZ students (AY 25/26 Sem I)'
+        - 'Tue 1pm--2pm (appointment only; no walk-ins)'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '22.6898'
