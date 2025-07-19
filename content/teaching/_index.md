@@ -33,16 +33,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Computational Social Science
-          tag: CSS
-        - name: Statistics
-          tag: stats
         - name: R programming
           tag: r
         - name: JAGS programming
           tag: jags
         - name: LaTeX
           tag: latex
+        - name: Computational Social Science
+          tag: CSS
+        - name: Statistics
+          tag: stats
     # design:
     #   view: article-grid
     #   fill_image: false
