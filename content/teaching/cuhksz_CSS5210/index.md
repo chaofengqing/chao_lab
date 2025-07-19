@@ -1,5 +1,5 @@
 ---
-title: CSS5020 Statistics for Social Science
+title: CSS5210 Advanced Topics in Social Statistics
 summary: Postgraduate course for CUHKSZ Computational Social Science students
 date: 2025-07-19
 type: docs
