@@ -1,6 +1,6 @@
 ---
 title: CSS5210 Advanced Topics in Social Statistics
-summary: Postgraduate course for CUHKSZ Computational Social Science students
+summary: Postgraduate CSS course for CUHKSZ students. It's a very advanced course targeting PhD students who have heavy needs of complex modeling.
 date: 2025-07-19
 type: docs
 math: true

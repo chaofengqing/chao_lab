@@ -1,6 +1,6 @@
 ---
 title: CSS5020 Statistics for Social Science
-summary: Postgraduate course for CUHKSZ Computational Social Science students
+summary: Postgraduate CSS course for CUHKSZ students. It's a compulsory course focusing on basic statistics.
 date: 2025-07-19
 type: docs
 math: true

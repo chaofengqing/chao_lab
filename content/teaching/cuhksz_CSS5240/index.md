@@ -1,6 +1,6 @@
 ---
 title: CSS5240 Data Visualization for Social Science
-summary: Postgraduate course for CUHKSZ Computational Social Science students
+summary: Postgraduate CSS course for CUHKSZ students. The course uses R to plot all sorts of plots commonly used in social science.
 date: 2025-07-19
 type: docs
 math: true
