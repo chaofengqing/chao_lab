@@ -24,7 +24,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: Here's a list of courses that I have taught over the years.
+      text: Here's a list of courses that I have taught over the years. Course icons were created using Birdtrack Notation via ChatGPT-4.1.
       filters:
         folders:
           - teaching
@@ -34,4 +34,3 @@ sections:
       columns: 3
 ---
 
-Course icons: created using Birdtrack Notation via ChatGPT-4.1.
