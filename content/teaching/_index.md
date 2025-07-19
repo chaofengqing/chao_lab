@@ -3,11 +3,11 @@ title: Teaching
 summary: My courses
 type: landing
 
-# cascade:
-#   - _target:
-#       kind: page
-#     params:
-#       show_breadcrumb: true
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
 design:
   # Section spacing
@@ -25,5 +25,5 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 3
 ---
