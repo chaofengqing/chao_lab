@@ -37,6 +37,12 @@ sections:
           tag: CSS
         - name: Statistics
           tag: stats
+        - name: R programming
+          tag: r
+        - name: JAGS programming
+          tag: jags
+        - name: LaTeX
+          tag: latex
     # design:
     #   view: article-grid
     #   fill_image: false

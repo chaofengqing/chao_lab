@@ -7,6 +7,9 @@ math: true
 tags:
   - CSS
   - stats
+  - r
+  - jags
+  - latex
 image:
   caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1'
   preview_only: true
