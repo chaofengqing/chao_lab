@@ -3,6 +3,12 @@ title: Teaching
 summary: My courses
 type: landing
 
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
 cascade:
   - _target:
       kind: page
