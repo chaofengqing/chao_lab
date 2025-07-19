@@ -45,8 +45,10 @@ header:
 
 footer:
   copyright:
-    notice: "Copyright © 2024--{year} Fengqing Chao, all rights reserved. This work is licensed under {license}. 
-    Disclaimer: Opinions on this site do not represent those of any other groups. Conversely, the policies of my university, department, and funding agencies do not necessarily represent my values."
+    notice: |2-
+      Copyright © 2024--{year} Fengqing Chao, all rights reserved. This work is licensed under {license}. 
+      
+      Disclaimer: Opinions on this site do not represent those of any other groups. Conversely, the policies of my university, department, and funding agencies do not necessarily represent my values.
     license:
       enable: true
       allow_derivatives: false
