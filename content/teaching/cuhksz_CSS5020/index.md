@@ -8,5 +8,7 @@ tags:
   - CSS
 image:
   caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1'
+  focal_point: right
+  placement: 2
 ---
 
