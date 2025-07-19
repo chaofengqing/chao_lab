@@ -45,9 +45,8 @@ header:
 
 footer:
   copyright:
-    notice: |
-      © 2024--{year} Fengqing Chao. This work is licensed under {license}.\n
-      Disclaimer: Opinions expressed are solely my own and do not express the views or opinions of my employer.
+    notice: "© 2024--{year} Fengqing Chao. This work is licensed under {license}.\
+         Disclaimer: Opinions expressed are solely my own and do not express the views or opinions of my employer."
     license:
       enable: true
       allow_derivatives: false
