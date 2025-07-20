@@ -22,4 +22,3 @@ This is a postgraduate course taught by me:
 
 ## TL;DR
 Warning: this is a *very* challenging course. Take it only if you have an actual need of complicated statistical modeling for your research.
-If you are actively looking for a job or having an internship during the course period, think twice.
