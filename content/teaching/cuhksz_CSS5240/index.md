@@ -5,8 +5,9 @@ date: 2025-07-19
 type: docs
 math: true
 tags:
-  - CSS
+  - css
   - r
+  - moderate
 image:
   caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1'
   preview_only: true

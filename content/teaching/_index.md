@@ -42,7 +42,13 @@ sections:
         - name: Statistics
           tag: stats
         - name: Computational Social Science
-          tag: CSS
+          tag: css
+        - name: Basic level
+          tag: easy
+        - name: Moderate level
+          tag: moderate
+        - name: Extreme level
+          tag: extreme
     # design:
     #   view: article-grid
     #   fill_image: false
