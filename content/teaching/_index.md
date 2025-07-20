@@ -51,6 +51,8 @@ sections:
           tag: easy
         - name: Moderate level
           tag: moderate
+        - name: Challenging level
+          tag: challenging
         - name: Extreme level
           tag: extreme
     # design:
