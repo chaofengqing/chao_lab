@@ -1,6 +1,6 @@
 ---
 title: CSS5240 Data Visualization for Social Science
-summary: Postgraduate CSS course for CUHKSZ students. The course introduces all sorts of plots commonly used in social science.
+summary: The course introduces all sorts of plots commonly used in social science.
 date: 2025-07-19
 type: docs
 math: true
@@ -11,3 +11,7 @@ image:
   caption: 'Image credit: Birdtrack Notation created by ChatGPT-4.1'
   preview_only: true
 ---
+
+This is a postgraduate course taught by me:
+
+* Fall, AY2024-25, CSS program, CUHKSZ.

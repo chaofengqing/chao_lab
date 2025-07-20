@@ -13,4 +13,6 @@ image:
   preview_only: true
 ---
 
-Postgraduate CSS course for CUHKSZ students.
+This is a postgraduate course taught by me:
+
+* Fall, AY2024-25, CSS program, CUHKSZ.
