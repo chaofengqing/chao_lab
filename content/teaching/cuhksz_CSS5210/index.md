@@ -21,5 +21,5 @@ This is a postgraduate course taught by me:
 * Spring, AY2024-25, CSS program, CUHKSZ.
 
 ## TL;DR
-Warning: this is a *very* challenging course. Take it only if you have actual need of complicated statistical modeling for your research.
+Warning: this is a *very* challenging course. Take it only if you have an actual need of complicated statistical modeling for your research.
 If you are actively looking for a job or having an internship during the course period, it is recommended that you drop this course as early as possible.
