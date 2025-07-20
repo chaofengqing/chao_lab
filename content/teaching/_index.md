@@ -22,10 +22,10 @@ sections:
       text: |2-
         Play around with the filters below to find out the study fields and technical skills covered among courses. The difficulty levels are
         
-            * Basic
-            * Moderate
-            * Challenging
-            * Extreme
+            1. Basic
+            2. Moderate
+            3. Challenging
+            4. Extreme
       filters:
         folders:
           - teaching
