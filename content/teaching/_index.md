@@ -33,9 +33,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: R programming
+        - name: R coding
           tag: r
-        - name: JAGS programming
+        - name: JAGS coding
           tag: jags
         - name: LaTeX
           tag: latex
