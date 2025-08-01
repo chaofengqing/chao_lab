@@ -17,9 +17,6 @@ sections:
       cta_alt:
         label: Get in touch
         url: https://chaofengqing.github.io/chao_lab/contact
-      cta_note:
-        label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
         **Welcome! Chao Lab is about everything related to Bayesian model, demography, and global health.**
 
@@ -47,7 +44,6 @@ sections:
           text_color_light: true
         # gradient_end: '#1976d2'
         # gradient_start: '#004ba0'
-        # text_color_light: true
   - block: about.biography
     id: about
     content:
