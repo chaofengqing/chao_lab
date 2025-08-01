@@ -23,8 +23,6 @@ sections:
       text: |-
         **Chao Lab is about everything related to Bayesian model, demography, and global health.**
 
-        **Easily build anything with blocks - no-code required!**
-
         In this website, you can get to my research and my lab.
 
         <!--Custom spacing-->
