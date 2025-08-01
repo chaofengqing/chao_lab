@@ -102,6 +102,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=r8PB6loAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/chaofengqing
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-2228-5970
@@ -123,9 +126,6 @@ social:
   - icon: clarivate
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/AAN-9221-2020
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
