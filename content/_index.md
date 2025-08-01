@@ -12,8 +12,8 @@ sections:
       image:
         filename: hero-lab.png
       cta:
-        label: '**Get Started**'
-        url: https://hugoblox.com/templates/
+        label: '**Download CV**'
+        url: https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
