@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Welcome to the Chao Lab
+      title: Chao Lab
       image:
         filename: hero-lab.png
       cta:
@@ -21,7 +21,7 @@ sections:
         label: >-
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-        **Chao Lab is about everything related to Bayesian model, demography, and global health.**
+        **Welcome! Chao Lab is about everything related to Bayesian model, demography, and global health.**
 
         In this website, you can get to know my research and my lab.
 
