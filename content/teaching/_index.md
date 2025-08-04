@@ -68,5 +68,3 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 ---
-
-_Course icons were created using Birdtrack Notation via ChatGPT-4.1._
