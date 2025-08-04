@@ -50,7 +50,6 @@ sections:
           location: Singapore
           date_start: '2012-07-10'
           date_end: '2019-07-19'
-          # description: ''
           description: |2-
 
               * Saw Swee Hock School of Public Health
