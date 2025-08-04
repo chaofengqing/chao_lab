@@ -8,6 +8,7 @@ sections:
     id: experience
     content:
       title: Experience
+      subtitle: Only current/final position is shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
       text: |-
         Only current/final position is shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
       # Date format for experience
