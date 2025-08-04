@@ -8,9 +8,8 @@ sections:
     id: experience
     content:
       title: Experience
-      subtitle: Only current/final position is shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
-      text: |-
-        Only current/final position is shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
+      subtitle: Only the current/final position is shown for each experience. Full experience is in my [ CV](https://chaofengqing.github.io/chao_lab/files/cv_CHAOFENGQING.pdf).
+      text: ''
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
