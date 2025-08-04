@@ -21,7 +21,6 @@ sections:
       subtitle: Here is a list of courses that I have taught. Course icons were created using Birdtrack Notation via ChatGPT-4.1.
       text: |2-
         Play around with the filters below to find out the study fields and technical skills covered among courses. The difficulty levels are:
-        
             1. Basic
             2. Moderate
             3. Challenging
