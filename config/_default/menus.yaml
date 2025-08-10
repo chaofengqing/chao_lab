@@ -43,9 +43,9 @@ main:
   - name: Lab
     url: /people
     weight: 21
-  - name: Collaborators
-    url: 'collaborators'
-    weight: 36
+  # - name: Collaborators
+  #   url: 'collaborators'
+  #   weight: 36
   - name: Outreach
     url: 'publication'
     weight: 37
