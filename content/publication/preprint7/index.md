@@ -1,17 +1,14 @@
 ---
-title: "Sex differences in survival chances among children, adolescents, and youth ages 0–24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
+title: "Levels and trends in fertility rates among adolescents aged 10–14 and 15–19 in 201 countries and areas from 1950 to 2023"
 authors:
 - admin
-- Bruno Masquelier
-- Danzhen You
-- Lucia Hug
-- Yang Liu
-- David Sharrow
-- Håvard Rue
-- Hernando Ombao
-- Leontine Alkema
-date: "2023-04-14T00:00:00Z"
-doi: "10.2139/ssrn.4415686"
+- Vladimíra Kantorová
+- Giulia Gonnella
+- Bruno Schoumaker
+- David A. Sánchez-Páez
+- Patrick Gerland
+date: "2025-06-26T00:00:00Z"
+doi: "10.2139/ssrn.5319104"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-05-01T00:00:00Z"
@@ -20,12 +17,12 @@ publishDate: "2019-05-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*SSRN* 4415686"
+# publication: "*SSRN* 5319104"
 publication_short: ""
 
 tags:
-- under-25 mortality rate
-- sex disparity
+- under-20 fertility rat
+- adolescent pregnancy
 - Sustainable Development Goals
 - global health
 - Bayesian hierarchical model
@@ -36,28 +33,28 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/preprint6_2023_ChaoF_Sex-Differences-in-Survival-Chances-ages-0-24.pdf
+url_pdf: files/preprint7_2025_ChaoF_Under_20_Fertility_in_All_Countries_from_1950_to_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://ssrn.com/abstract=4415686
+url_source: https://ssrn.com/abstract=5319104
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**&copy; 2023 Chao et al.**](https://ssrn.com/abstract=4415686)'
+  caption: 'Image credit: [**&copy; 2025 Chao et al.**](https://ssrn.com/abstract=5319104)'
   focal_point: "right"
   preview_only: false
 
 projects:
-- u5mr
+- fertility
 
 ---
 
 This is a preprint that is under peer-reviewed currently.
 
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.2139/ssrn.4415686" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.2139/ssrn.5319104" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
