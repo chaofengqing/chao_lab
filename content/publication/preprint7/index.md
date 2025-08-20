@@ -7,6 +7,13 @@ authors:
 - Bruno Schoumaker
 - David A. Sánchez-Páez
 - Patrick Gerland
+author_notes:
+- "Correspondence"
+- ""
+- ""
+- ""
+- ""
+- ""
 date: "2025-06-26T00:00:00Z"
 doi: "10.2139/ssrn.5319104"
 
