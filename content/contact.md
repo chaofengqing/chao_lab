@@ -26,7 +26,7 @@ sections:
       directions: TXB 921
       office_hours:
         - 'Office hour for CUHKSZ students (AY 25/26 Sem I)'
-        - 'Thu 1130--1230 (appointment only; no walk-ins)'
+        - 'Thu 1130am--1230pm (appointment only; no walk-ins)'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '22.6898'
