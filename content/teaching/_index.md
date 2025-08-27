@@ -51,9 +51,9 @@ sections:
           tag: css
         - name: Basic level
           tag: easy
-        - name: Moderate level (stay tuned)
+        - name: Moderate level
           tag: moderate
-        - name: Challenging level
+        - name: Challenging level (stay tuned)
           tag: challenging
         - name: Extreme level
           tag: extreme
