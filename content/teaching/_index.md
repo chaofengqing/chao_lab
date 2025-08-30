@@ -24,7 +24,7 @@ sections:
         
           1. Basic
           2. Moderate
-          3. Challenging
+          3. Challenging (stay tuned)
           4. Extreme
       filters:
         folders:
@@ -53,7 +53,7 @@ sections:
           tag: easy
         - name: Moderate level
           tag: moderate
-        - name: Challenging level (stay tuned)
+        - name: Challenging level
           tag: challenging
         - name: Extreme level
           tag: extreme
