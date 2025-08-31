@@ -16,5 +16,5 @@ image:
 
 This is a postgraduate course taught by me:
 
-* Fall, AY2024-25, CSS program, CUHKSZ.
 * Fall, AY2025-26, CSS program, CUHKSZ.
+* Fall, AY2024-25, CSS program, CUHKSZ.
