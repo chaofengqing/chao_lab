@@ -49,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://accscience.com/journal/IJPS/8/2/10.36922/ijps.v8i2.332
+url_source: https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00376-5/fulltext
 url_video: ''
 
 # Featured image
