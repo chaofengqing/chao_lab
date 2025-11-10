@@ -38,9 +38,6 @@ education:
     - course: MSc in Social Research Methods
       institution: University College London
       year: 2024
-    - course: MSc in Applied Geographic Information Systems
-      institution: National University of Singapore
-      year: 
     - course: BA in Economics and Social Statistics
       institution: The University of Manchester
       year: 2023
