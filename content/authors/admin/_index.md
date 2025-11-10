@@ -79,10 +79,10 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Strolling
+      - name: Gaming
         description: ''
         percent: 80
-        icon: person-walking
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
