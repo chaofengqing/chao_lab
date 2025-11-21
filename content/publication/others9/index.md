@@ -1,7 +1,6 @@
 ---
-title: "Professor Fengqing Chao's Team Estimating Adult Mortality Rates in 236 Countries Using Bayesian Hierarchical Models: A case study for the High Performance Computing at CUHK-Shenzhen"
+title: "Fengqing Chao's Team Estimating Adult Mortality Rates in 236 Countries Using Bayesian Hierarchical Models: A case study for the High Performance Computing at CUHK-Shenzhen"
 authors:
-- admin
 - Qiang-Qiqi
 - Shi-Yichang
 author_notes:
