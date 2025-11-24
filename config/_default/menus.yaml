@@ -45,7 +45,6 @@ main:
   #   weight: 21
   - name: Lab
     url: 'publication'
-    parent: 'pub_team'
     weight: 30
     identifier: 'lab_parent'
   - name: People
