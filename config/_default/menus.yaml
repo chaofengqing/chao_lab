@@ -44,17 +44,17 @@ main:
   #   url: /people
   #   weight: 21
   - name: Lab
-    url: 'team'
+    url: 'publication'
     parent: 'pub_team'
-    weight: 21
-    identifier: 'pub_team'
+    weight: 30
+    identifier: 'lab_parent'
   - name: People
     url: 'people'
-    parent: 'pub_team'
+    parent: 'lab_parent'
     weight: 1
   - name: Resources
     url: 'resources'
-    parent: 'pub_team'
+    parent: 'lab_parent'
     weight: 2
   # - name: Collaborators
   #   url: 'collaborators'
