@@ -40,9 +40,22 @@ main:
     url: 'publication'
     parent: 'pub_parent'
     weight: 3
+  # - name: Lab
+  #   url: /people
+  #   weight: 21
   - name: Lab
-    url: /people
+    url: 'team'
+    parent: 'pub_team'
     weight: 21
+    identifier: 'pub_team'
+  - name: People
+    url: 'people'
+    parent: 'pub_team'
+    weight: 1
+  - name: Resources
+    url: 'resources'
+    parent: 'pub_team'
+    weight: 2
   # - name: Collaborators
   #   url: 'collaborators'
   #   weight: 36
