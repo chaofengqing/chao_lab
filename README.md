@@ -1,6 +1,6 @@
 # [Fengqing Chao's webpage](https://chaofengqing.github.io/chao_lab/)
 
-This is Fengqing Chao's webpage using the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv). Some of the website layouts and structures are inspired by Flip Tanedo's [website](https://particle.ucr.edu/), not that my research has anything to do with the dark matter.
+This is Fengqing Chao's webpage using the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv). Some of the website layouts and structures are inspired by Flip Tanedo's [website](https://particle.ucr.edu/), not that my research has anything to do with the dark matter. My team page also benefits from the [SCI-Cream Lab](https://sci-cream.netlify.app/) website.
 
 ## License
 
