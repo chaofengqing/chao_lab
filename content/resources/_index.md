@@ -2,7 +2,7 @@
 title: Resources
 cms_exclude: true
 type: book
-
+toc: true
 # View.
 #   1 = List
 #   2 = Compact
