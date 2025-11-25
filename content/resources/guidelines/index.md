@@ -20,7 +20,8 @@ This page introduces the Chao Lab Guidelines for a PhD or Masters student. The g
 
 ## Lab culture
 
-  - All lab mates are equal, i.e. no hierarchy within the lab. All members works directly with Dr. Chao.
+  - All members works directly with Dr. Chao. Hence, the group size will be kept relatively small so that Dr. Chao can ensure high-quality interation with each lab mate.
+  - All lab mates are equal, i.e. no hierarchy within the lab.
   - Zero tolerance on bullying, abuse, or any unprofessional behavior.
   
 ## Kick start
