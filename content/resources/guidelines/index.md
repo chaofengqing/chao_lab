@@ -10,7 +10,7 @@ weight: 1
 
 {{< figure src="featured.png" >}}
 
-This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs.
+This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs or to students who are only my academic mentees but are not working with me on any projects.
  
 
 ## Ground rules
@@ -45,6 +45,7 @@ To get on board, a student should:
   - All the students have the right to withdraw from the lab any time.
   - Schedule a meeting/zoom call with Dr. Chao to fix a final day at the lab.
   - Email Dr. Chao with a one-month notice period before the agreed final day.
+  - Relax, no hard feelings, and move on.
 
 ## Contributors of this page
 Fengqing Chao, last updated on 2025 Nov 25th.
