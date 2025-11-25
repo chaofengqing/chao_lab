@@ -10,7 +10,7 @@ weight: 1
 
 {{< figure src="featured.png" >}}
 
-This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs or to students who are only my academic mentees but are not working with me on any projects.
+This page introduces the Chao Lab Guidelines for a PhD or student RAs. The guidelines are not applicable to post-docs or to students who are only my academic mentees but are not working with me on any projects.
  
 
 ## Ground rules
