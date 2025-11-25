@@ -12,7 +12,7 @@ weight: 1
 This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs.
  
 
-## Basic rules
+## Ground rules
 
   - This is an English-only lab, including but not limited to emails, presentations, and discussions.
   - Only use emails to contact Dr. Chao.
