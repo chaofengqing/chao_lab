@@ -17,6 +17,7 @@ This page introduces the Chao Lab Guidelines for a PhD or Masters student. The g
 
   - This is an English-only lab, including but not limited to emails, presentations, and discussions.
   - Only use emails to contact Dr. Chao.
+  - All lab mates are equal, i.e. no hierarchy within the lab. All members works directly with Dr. Chao.
 
 ## Kick start
 To get on board, a student should:
