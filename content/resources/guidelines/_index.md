@@ -24,7 +24,7 @@ To get on board, a student should:
   - Join the Chao Lab OneDrive folder, so that one can access the lab resources.
   - Dr. Chao will request an account for the High Performance Computing (HPC):
     - Compulsory for PhD students.
-    - Optional for Master unless with strong computational background.
+    - Optional for Master students unless with strong computational background.
 
 ## What to expect
   - Weekly lab meetings:
