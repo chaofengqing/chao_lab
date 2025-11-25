@@ -9,7 +9,7 @@ weight: 1
 
 {{< figure src="featured.png" >}}
 
-Chao Lab is everything about Bayesian, Demography, and Global Health! This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs.
+This page introduces the Chao Lab Guidelines for a PhD or Masters student. The guidelines are not applicable to post-docs.
  
 
 ## Basic rules
