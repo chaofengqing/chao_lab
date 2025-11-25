@@ -45,5 +45,7 @@ To get on board, a student should:
   - Schedule a meeting/zoom call with Dr. Chao to fix a final day at the lab.
   - Email Dr. Chao with a one-month notice period before the agreed final day.
 
+## Contributors of this page
+Fengqing Chao, last updated on 2025 Nov 25th.
 
 <div align="right">Chao Lab</div>
