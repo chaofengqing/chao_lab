@@ -49,7 +49,7 @@ To get on board, a student should:
 ## How to exit the lab
 
   - All the students have the right to withdraw from the lab any time.
-  - Schedule a meeting/zoom call with Dr. Chao to fix a final day at the lab.
+  - Schedule a meeting/zoom call with Dr. Chao to fix a final day in the lab.
   - Email Dr. Chao with a one-month notice period before the agreed final day.
   - Relax, no hard feelings, and move on.
 
