@@ -15,15 +15,12 @@ This page introduces the Chao Lab Guidelines for a PhD or Masters student. The g
 ## Basic rules
 
   - This is an English-only lab, including but not limited to emails, presentations, and discussions.
-  
   - Only use emails to contact Dr. Chao.
 
 ## Kick start
 To get on board, a student should:
   - Sign a service agreement (not a labor contract) with Dr. Chao, so that working hours can be compensated.
-  
   - Join the Chao Lab working email group, so that the lab announcements can be received.
-  
   - Join the Chao Lab OneDrive folder, so that one can access the lab resources.
 
 ## What to expect
@@ -42,9 +39,7 @@ To get on board, a student should:
 ## How to exit the lab
 
   - All the students have the right to withdraw from the lab any time.
-  
   - Schedule a meeting/zoom call with Dr. Chao to fix a final day at the lab.
-  
   - Email Dr. Chao with a one-month notice period before the agreed final day.
 
 
