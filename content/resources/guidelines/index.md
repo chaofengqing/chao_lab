@@ -58,10 +58,10 @@ To get on board, a student should:
 ## No gift policy
 This deserves a separate section. In short, Dr. Chao does not accept any gift, regardless of its value, from any lab mates.
 
-The YouTube video describes exactly how Dr. Chao will respond if one forces a gift on up her.
+The YouTube video (a clip from _Brooklyn Nine-Nine_) describes exactly how Dr. Chao will respond if one forces a gift on up her.
 {{< youtube hAvVQVCF2os >}}
 
 ## Contributors of this page
-Fengqing Chao, last updated on 2025 Nov 25th.
+Fengqing Chao, last updated on 2025 Nov 26th.
 
 <div align="right">Chao Lab</div>
