@@ -1,6 +1,6 @@
 ---
 title: Chao Lab Guidelines
-# linktitle: Guidelines
+linktitle: Guidelines
 summary: The regulations of the lab.
 date: '2025-11-26'
 type: book
@@ -58,7 +58,7 @@ To get on board, a student should:
 ## No gift policy
 This deserves a separate section. In short, Dr. Chao does not accept any gift, regardless of its value, from any lab mates.
 
-The YouTube video (a clip from _Brooklyn Nine-Nine_) describes exactly how Dr. Chao will respond if one forces a gift on up her.
+The YouTube video (a clip from _Brooklyn Nine-Nine_) describes exactly how Dr. Chao will respond if one forces a gift upon her.
 {{< youtube hAvVQVCF2os >}}
 
 ## Contributors of this page
