@@ -67,6 +67,12 @@ To get on board, a student should:
   - Email Dr. Chao with a one-month notice period before the agreed final day.
   - Relax, no hard feelings, and move on.
 
+## No gift policy
+This deserves a separate section. In short, Dr. Chao do not accept any gift, regardless of its value, from any lab mates.
+
+The YouTube video describes exactly how Dr. Chao will respond if one force a gift on up her.
+{{< youtube hAvVQVCF2os title = "Brooklyn Nine-Nine - Amy Gets a Gift for Holt">}}
+
 ## Contributors of this page
 Fengqing Chao, last updated on 2025 Nov 25th.
 
