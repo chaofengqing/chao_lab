@@ -45,7 +45,7 @@ To get on board, a student should:
   - Once every two weeks for Master students.
     - If good progress is made, one can email Dr. Chao and request to meet after one week.
       
-### HK Research seminars 
+### HK Research seminars
   - Attending research talks in universities and institutes based in Hong Kong is encouraged.
 
 ## How to exit the lab
@@ -59,7 +59,7 @@ To get on board, a student should:
 This deserves a separate section. In short, Dr. Chao does not accept any gift, regardless of its value, from any lab mates.
 
 The YouTube video describes exactly how Dr. Chao will respond if one forces a gift on up her.
-{{< youtube hAvVQVCF2os title = "Brooklyn Nine-Nine - Amy Gets a Gift for Holt">}}
+{{< youtube hAvVQVCF2os >}}
 
 ## Contributors of this page
 Fengqing Chao, last updated on 2025 Nov 25th.
