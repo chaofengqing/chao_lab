@@ -1,14 +1,12 @@
 ---
 title: Chao Lab Guidelines
-linktitle: Guidelines
+# linktitle: Guidelines
 summary: The regulations of the lab.
 date: '2025-11-25'
 type: book
 toc: true
 weight: 1
 ---
-
-{{< figure src="featured.png" >}}
 
 This page introduces the Chao Lab Guidelines for a PhD or student RAs. The guidelines are not applicable to post-docs or to students who are only my academic mentees but are not working with me on any projects.
  
@@ -34,17 +32,33 @@ To get on board, a student should:
     - Optional for Master students unless with strong computational background.
 
 ## What to expect
-  - Weekly lab meetings:
+# Weekly lab meetings:
     - During the semester: in-person.
     - During the winter & summer breaks: in-person and/or via zoom.
     - No meetings during the public holidays or during the weekends.
-  - Presentations to the lab:
+    
+# Presentations to the lab:
     - Twice per semester on average.
-  - One-to-one meetings with Dr. Chao:
+    
+# One-to-one meetings with Dr. Chao:
     - Once a week on average for PhD students.
     - Once every two weeks for Master students.
       - If good progress is made, one can email Dr. Chao and request to meet after one week.
-  - Attending research seminars in Hong Kong in-person is encouraged.
+      
+# Research seminars in Hong Kong 
+    - In-person Attendance is encouraged.
+
+  # - Weekly lab meetings:
+  #   - During the semester: in-person.
+  #   - During the winter & summer breaks: in-person and/or via zoom.
+  #   - No meetings during the public holidays or during the weekends.
+  # - Presentations to the lab:
+  #   - Twice per semester on average.
+  # - One-to-one meetings with Dr. Chao:
+  #   - Once a week on average for PhD students.
+  #   - Once every two weeks for Master students.
+  #     - If good progress is made, one can email Dr. Chao and request to meet after one week.
+  # - Attending research seminars in Hong Kong in-person is encouraged.
   
 ## How to exit the lab
 
