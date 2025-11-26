@@ -48,18 +48,6 @@ To get on board, a student should:
 ### HK Research seminars 
   - Attending research talks in universities and institutes based in Hong Kong is encouraged.
 
-  # - Weekly lab meetings:
-  #   - During the semester: in-person.
-  #   - During the winter & summer breaks: in-person and/or via zoom.
-  #   - No meetings during the public holidays or during the weekends.
-  # - Presentations to the lab:
-  #   - Twice per semester on average.
-  # - One-to-one meetings with Dr. Chao:
-  #   - Once a week on average for PhD students.
-  #   - Once every two weeks for Master students.
-  #     - If good progress is made, one can email Dr. Chao and request to meet after one week.
-  # - Attending research seminars in Hong Kong in-person is encouraged.
-  
 ## How to exit the lab
 
   - All the students have the right to withdraw from the lab any time.
@@ -68,9 +56,9 @@ To get on board, a student should:
   - Relax, no hard feelings, and move on.
 
 ## No gift policy
-This deserves a separate section. In short, Dr. Chao do not accept any gift, regardless of its value, from any lab mates.
+This deserves a separate section. In short, Dr. Chao does not accept any gift, regardless of its value, from any lab mates.
 
-The YouTube video describes exactly how Dr. Chao will respond if one force a gift on up her.
+The YouTube video describes exactly how Dr. Chao will respond if one forces a gift on up her.
 {{< youtube hAvVQVCF2os title = "Brooklyn Nine-Nine - Amy Gets a Gift for Holt">}}
 
 ## Contributors of this page
