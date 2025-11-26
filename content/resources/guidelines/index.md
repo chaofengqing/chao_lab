@@ -32,21 +32,21 @@ To get on board, a student should:
     - Optional for Master students unless with strong computational background.
 
 ## What to expect
-# Weekly lab meetings:
-    - During the semester: in-person.
-    - During the winter & summer breaks: in-person and/or via zoom.
-    - No meetings during the public holidays or during the weekends.
+### Weekly lab meetings:
+  - During the semester: in-person.
+  - During the winter & summer breaks: in-person and/or via zoom.
+  - No meetings during the public holidays or during the weekends.
     
-# Presentations to the lab:
-    - Twice per semester on average.
+### Presentations to the lab:
+  - Twice per semester on average.
     
-# One-to-one meetings with Dr. Chao:
-    - Once a week on average for PhD students.
-    - Once every two weeks for Master students.
-      - If good progress is made, one can email Dr. Chao and request to meet after one week.
+### One-to-one meetings with Dr. Chao:
+  - Once a week on average for PhD students.
+  - Once every two weeks for Master students.
+    - If good progress is made, one can email Dr. Chao and request to meet after one week.
       
-# Research seminars in Hong Kong 
-    - In-person Attendance is encouraged.
+### Research seminars in Hong Kong 
+  - In-person Attendance is encouraged.
 
   # - Weekly lab meetings:
   #   - During the semester: in-person.
