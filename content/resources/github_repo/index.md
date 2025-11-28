@@ -16,7 +16,7 @@ weight: 3
 ## 1. Create a GitHub Account
 
 Before getting started, you need to register and create a GitHub account at https://github.com.
-![image-20251128153834024](/Users/a77/Library/Application Support/typora-user-images/image-20251128153834024.png)
+{{< figure src="screenshot.png" title="Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))" >}}
 
 ## 2. Run the Code Locally
 
