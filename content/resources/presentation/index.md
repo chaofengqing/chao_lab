@@ -58,6 +58,7 @@ This page summarizes the presentation tips based on comments for past presentati
 - Increase font sizes (text, legends, labels) in figure elements
 - Adjust dot sizes for better visibility
 - Merge legends into one where possible
+- Ensure y-axis shows complete data ranges
 
 
 ## Technical Content & Explanations
@@ -74,26 +75,16 @@ This page summarizes the presentation tips based on comments for past presentati
 ### Results Interpretation
 
 - Highlight important results using red boxes in tables
-- Discuss low coverage and break down among left-out observations
-- Analyze systematic bias - from process model or data model?
-- Explain why coverage percentages updated/results improved
-- Ensure y-axis shows complete data ranges
 - Explain what grey series represents (testing data)
 
 ## Specific Terms Needed
 
-### Visual Specifics
-
-- South Africa example: discuss predictions for VR data vs survey data
-- Explain how states/countries are ordered in displays
-
 ### Structural Improvements
 
-- Use bullet points instead of dense paragraphs
-- Some slides can be merged
+- Use bullet points in short terms instead of long sentences
 - Table of contents is not always necessary
-- Make overview slides clear they are overviews - details to follow
-- Keep table captions concise
+  - This is especially so when you give a flash presentation
+- In the overview slide, mention that they are overviews - details to follow in later slides
 
 ## Contributors of this page
 
