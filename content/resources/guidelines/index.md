@@ -2,6 +2,10 @@
 title: Chao Lab Guidelines
 linktitle: Guidelines
 summary: The regulations of the lab.
+authors:
+- admin
+tags:
+- lab
 date: '2025-11-26'
 type: book
 toc: true
