@@ -36,11 +36,10 @@ This page summarizes the presentation tips based on comments for past presentati
 
 ### Background & Definitions
 
-- Need more background info on research with common terms explained
-- Motivation should be mentioned at the beginning
+- Need background on research
+- Main concepts and terms should be explained properly at the start
+- Motivation should be highlighted at the beginning
 - Write out full forms when first introducing acronyms
-  - ASFR 15-19: define formally (Age-Specific Fertility Rate for females 15-19)
-  - 45q15: define properly (probability of dying between 15-60 years old)
 
 ### Visual Improvements
 
@@ -48,7 +47,7 @@ This page summarizes the presentation tips based on comments for past presentati
 - Use titles that convey key messages of plots
 - Increase font sizes (text, legends, labels)
 - Make grey colors more visible
-- Adjust dot sizes (cex) for better visibility
+- Adjust dot sizes for better visibility
 - Merge legends into one where possible
 - Update legend titles to distinguish training/testing data
 
@@ -56,12 +55,11 @@ This page summarizes the presentation tips based on comments for past presentati
 
 ### Model & Methodology
 
-- Explain logit transformation and why it's used
 - Highlight each contribution clearly
 - Explain sampling error meaning and known values
-- Be consistent with notation (Ω_i vs ω²)
+- Notations should be consistent throughout the whole presentation
 - Make indices clear (i, c, t, j)
-- State clearly what's known vs what needs simulation
+- State clearly what are known values vs what are unknown parameters in the model
 
 ### Results Interpretation
 
@@ -74,18 +72,9 @@ This page summarizes the presentation tips based on comments for past presentati
 
 ## **Specific Terms Needed**
 
-### Terminology & Notation
-
-- N_female_st: clarify means "life years lived" not "number of females"
-- Use "per 1000" consistently throughout
-- Write out RW2 and RW1 fully
-- Add space in "Wpp" to "WPP"
-- Use "vs" instead of "versus"
-
 ### Visual Specifics
 
 - South Africa example: discuss predictions for VR data vs survey data
-- Expected proportion should be ≤ 2.5%
 - Explain how states/countries are ordered in displays
 - Point to specific locations on maps during explanation
 - Explain GBD (Global Burden of Disease) reference
@@ -93,13 +82,14 @@ This page summarizes the presentation tips based on comments for past presentati
 ### Structural Improvements
 
 - Use bullet points instead of dense paragraphs
-- Some slides can be merged (e.g., P10 content into P11)
-- Table of contents not always necessary
+- Some slides can be merged
+- Table of contents is not always necessary
 - Make overview slides clear they are overviews - details to follow
 - Keep table captions concise
 
 ## Contributors of this page
-Qiqi Qiang, last updated on 2025 Nov 12.
-Fengqing Chao, last updated on 2025 Nov 26th.
+
+- Qiqi Qiang, last updated on 2025 Nov 12.
+- Fengqing Chao, last updated on 2025 Nov 26th.
 
 <div align="right">Chao Lab</div>
