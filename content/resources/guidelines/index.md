@@ -6,7 +6,7 @@ authors:
 - admin
 tags:
 - lab
-date: '2025-11-26'
+date: '2025-11-28'
 type: book
 toc: true
 weight: 1
@@ -66,6 +66,6 @@ The YouTube video (a clip from _Brooklyn Nine-Nine_) describes exactly how Dr. C
 {{< youtube hAvVQVCF2os >}}
 
 ## Contributors of this page
-Fengqing Chao, last updated on 2025 Nov 26th.
+Fengqing Chao, last updated on 2025 Nov 28th.
 
-<div align="right">Chao Lab</div>
+<div align="right">Chao Lab Documentations</div>
