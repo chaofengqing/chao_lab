@@ -89,6 +89,6 @@ This page summarizes the presentation tips based on comments for past presentati
 ## Contributors of this page
 
 - Qiqi Qiang, last updated on 2025 Nov 12.
-- Fengqing Chao, last updated on 2025 Nov 26th.
+- Fengqing Chao, last updated on 2025 Nov 28th.
 
 <div align="right">Chao Lab Documentations</div>
