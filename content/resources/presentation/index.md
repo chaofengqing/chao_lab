@@ -20,7 +20,7 @@ This page summarizes the presentation tips based on comments for past presentati
 
 - Grammar and spelling checks for slides
 - Rehearse at least once
-- Stick within the time limit
+- Stick to the time limit
 - All contents in slides are subject to be questioned
 
 
