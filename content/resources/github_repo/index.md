@@ -16,7 +16,7 @@ weight: 3
 ## 1. Create a GitHub Account
 
 Before getting started, you need to register and create a GitHub account at https://github.com.
-{{< figure src="screenshot.png" title="Missing female births around the world during 1970--2017 (see [PNAS Fig.3](https://www.fengqingchao.com/files/1908359116.full.paper.pdf))" >}}
+{{< figure src="screenshot.png" title="The GitHub profile for the lab member [Qiqi Qiang](https://chaofengqing.github.io/chao_lab/authors/qiang-qiqi/)" >}}
 
 ## 2. Run the Code Locally
 
