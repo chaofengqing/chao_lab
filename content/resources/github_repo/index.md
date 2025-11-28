@@ -1,7 +1,7 @@
 ---
 title: How to prepare for a GitHub repository?
 linktitle: GitHub Repository
-# summary: The presentation tips are based on Dr. Chao's comments for past lab presentations
+summary: The protocols to prepare a GitHub repository for a lab project.
 authors:
 - Qiang-Qiqi
 tags:
