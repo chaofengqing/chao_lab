@@ -1,7 +1,7 @@
 ---
 title: How to do a nice presentation?
 linktitle: Presentation
-summary: The presentation tips based on comments for past presentations in Chao Lab.
+summary: The presentation tips are based on Dr. Chao's comments for past lab presentations
 authors:
 - Qiang-Qiqi
 - admin
