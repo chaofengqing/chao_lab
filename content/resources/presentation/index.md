@@ -75,7 +75,7 @@ This page summarizes the presentation tips based on comments for past presentati
 ### Results Interpretation
 
 - Highlight important results using red boxes in tables
-- Explain what grey series represents (testing data)
+
 
 ## Specific Terms Needed
 
@@ -91,4 +91,4 @@ This page summarizes the presentation tips based on comments for past presentati
 - Qiqi Qiang, last updated on 2025 Nov 12.
 - Fengqing Chao, last updated on 2025 Nov 26th.
 
-<div align="right">Chao Lab</div>
+<div align="right">Chao Lab Documentations</div>
