@@ -16,49 +16,59 @@ weight: 2
 This page summarizes the presentation tips based on comments for past presentations in Chao Lab.
  
 
-##  **Delivery & Presentation Style**
+## Basic rules
+
+- Grammar and spelling checks for slides
+- Rehearse at least once
+- Stick within the time limit
+- All contents in slides are subject to be questioned
+
+
+## Delivery & Presentation Style
 
 ### Eye Contact & Engagement
 
-- Do not look at the slides all the time, maintain eye contact with audience
-- Point to the picture/blackboard when explaining visual content
-- Do not read from the script - speak naturally
+- Do not look at the slides all the time, have eye contact with audience from time to time
+- When a table/figure contains much info, point to the mentioned part to assist explanation
+- Do not read from the script; talk naturally
 - Explain plots in detail, convey messages properly
 
 ### Pacing & Clarity
 
-- Use animation to show bullet points one by one
-- Avoid too many words on slides - shorten or split content
-- Don't just read through table row names - explain properly
+- Use animation to show bullet points one by one, instead of showing all points in one go
+- Avoid too many words on slides, shorten or split content
+- Do not simply read through table row names, explain properly
 - State one sentence to highlight motivation of comparisons
 
-##  **Slide Content & Structure**
+
+## Slide Content & Structure
 
 ### Background & Definitions
 
-- Need background on research
-- Main concepts and terms should be explained properly at the start
-- Motivation should be highlighted at the beginning
-- Write out full forms when first introducing acronyms
+- Must have research background
+- Main concepts and terms should be explained very clearly in the start
+- Motivations should be highlighted at the beginning
+- Write out full forms when introducing acronyms the first time
+  - You may recall the full form in later part of the presentation again, in case the audiences forget about the full forms
 
 ### Visual Improvements
 
-- Add plots to better explain context
-- Use titles that convey key messages of plots
-- Increase font sizes (text, legends, labels)
-- Make grey colors more visible
+- Plots can be helpful in demonstrating complex idea vividly
+- Frame titles can be served as the key messages of plots/tables in a slide
+- Increase font sizes (text, legends, labels) in figure elements
 - Adjust dot sizes for better visibility
 - Merge legends into one where possible
-- Update legend titles to distinguish training/testing data
 
-## **Technical Content & Explanations**
+
+## Technical Content & Explanations
 
 ### Model & Methodology
 
 - Highlight each contribution clearly
-- Explain sampling error meaning and known values
 - Notations should be consistent throughout the whole presentation
-- Make indices clear (i, c, t, j)
+- Explain the key indices at least once, e.g.
+  - $c$: country
+  - $t$: year or time
 - State clearly what are known values vs what are unknown parameters in the model
 
 ### Results Interpretation
@@ -70,14 +80,12 @@ This page summarizes the presentation tips based on comments for past presentati
 - Ensure y-axis shows complete data ranges
 - Explain what grey series represents (testing data)
 
-## **Specific Terms Needed**
+## Specific Terms Needed
 
 ### Visual Specifics
 
 - South Africa example: discuss predictions for VR data vs survey data
 - Explain how states/countries are ordered in displays
-- Point to specific locations on maps during explanation
-- Explain GBD (Global Burden of Disease) reference
 
 ### Structural Improvements
 
