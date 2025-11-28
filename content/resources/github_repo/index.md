@@ -1,4 +1,17 @@
-# How to prepare for a GitHub repository 
+---
+title: How to prepare for a GitHub repository?
+linktitle: GitHub Repository
+# summary: The presentation tips are based on Dr. Chao's comments for past lab presentations
+authors:
+- Qiang-Qiqi
+tags:
+- lab
+date: '2025-11-28'
+type: book
+toc: true
+weight: 3
+---
+
 
 ## 1. Create a GitHub Account
 
@@ -159,3 +172,9 @@ We estimate/project **[variable]** for **[units / time range]** using a **[model
 - Give the explanation for the key scripts.
 
 ------
+
+## Contributors of this page
+
+- Qiqi Qiang, last updated on 2025 Nov 28.
+
+<div align="right">Chao Lab Documentations</div>
