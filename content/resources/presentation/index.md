@@ -7,7 +7,7 @@ authors:
 - admin
 tags:
 - lab
-date: '2025-12-3'
+date: '2025-12-03'
 type: book
 toc: true
 weight: 2
