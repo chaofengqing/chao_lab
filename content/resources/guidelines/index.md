@@ -6,7 +6,7 @@ authors:
 - admin
 tags:
 - lab
-date: '2025-11-28'
+date: '2025-12-13'
 type: book
 toc: true
 weight: 1
@@ -22,7 +22,7 @@ This page introduces the Chao Lab Guidelines for a PhD or student RAs. The guide
 
 ## Lab culture
 
-  - All members works directly with Dr. Chao. Hence, the group size will be kept relatively small so that Dr. Chao can ensure high-quality interation with each lab mate.
+  - All members work directly with Dr. Chao. Hence, the group size will be kept relatively small so that Dr. Chao can ensure high-quality interaction with each lab mate.
   - All lab mates are equal, i.e. no hierarchy within the lab.
   - Zero tolerance on bullying, abuse, or any unprofessional behavior.
   
@@ -33,19 +33,19 @@ To get on board, a student should:
   - Join the Chao Lab OneDrive folder, so that one can access the lab resources.
   - Dr. Chao will request an account for the High Performance Computing (HPC):
     - Compulsory for PhD students.
-    - Optional for Master students unless with strong computational background.
+    - Optional for Master students unless with a strong computational background.
 
 ## What to expect
 ### Weekly lab meetings
   - During the semester: in-person.
-  - During the winter & summer breaks: in-person and/or via zoom.
-  - No meetings during the public holidays or during the weekends.
+  - During the winter & summer breaks: in-person and/or via Zoom.
+  - No meetings during the public holidays or at weekends.
     
 ### Presentations to the lab
   - Twice per semester on average.
     
 ### One-to-one meetings with Dr. Chao
-  - Once a week on average for PhD students.
+  - Once a week, on average, for PhD students.
   - Once every two weeks for Master students.
     - If good progress is made, one can email Dr. Chao and request to meet after one week.
       
@@ -54,8 +54,8 @@ To get on board, a student should:
 
 ## How to exit the lab
 
-  - All the students have the right to withdraw from the lab any time.
-  - Schedule a meeting/zoom call with Dr. Chao to fix a final day in the lab.
+  - All the students have the right to withdraw from the lab at any time.
+  - Schedule a meeting/Zoom call with Dr. Chao to fix a final day in the lab.
   - Email Dr. Chao with a one-month notice period before the agreed final day.
   - Relax, no hard feelings, and move on.
 
@@ -66,6 +66,6 @@ The YouTube video (a clip from _Brooklyn Nine-Nine_) describes exactly how Dr. C
 {{< youtube hAvVQVCF2os >}}
 
 ## Contributors of this page
-Fengqing Chao, last updated on 2025 Nov 28th.
+Fengqing Chao, last updated on 2025 Dec 13th.
 
 <div align="right">Chao Lab Documentations</div>
