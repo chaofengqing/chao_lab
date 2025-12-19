@@ -21,8 +21,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Statistical Demography
-          tag: Statistical Demography
+        - name: Birth-related
+          tag: Birth
+        - name: Death-related
+          tag: Death
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

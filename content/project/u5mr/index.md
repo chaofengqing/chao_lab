@@ -2,7 +2,7 @@
 title: Child and adolescence mortality rates disparity estimation
 summary: I build statistical models to estimate the disparities in child and adolescence mortality rates across countries over time.
 tags:
-- Statistical Demography
+- Death
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

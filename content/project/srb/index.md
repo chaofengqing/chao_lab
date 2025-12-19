@@ -2,7 +2,7 @@
 title: Sex ratio at birth estimation and projection
 summary: I build statistical models to estimate and project human sex ratio at birth on national and sub-national levels.
 tags:
-- Statistical Demography
+- Birth
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

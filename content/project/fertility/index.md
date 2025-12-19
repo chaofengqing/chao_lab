@@ -2,7 +2,7 @@
 title: Fertility rates and associated disparity estimation
 summary: I build statistical models to estimate the disparities in fertility rates across countries over time.
 tags:
-- Statistical Demography
+- Birth
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
