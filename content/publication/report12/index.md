@@ -1,17 +1,11 @@
 ---
-title: "Web Appendix for Sex differences in mortality among children, adolescents, and youth aged 0-24: A systematic assessment of national, regional, and global trends from 1990 to 2021"
+title: "Web Appendix for Levels and trends in fertility rates among adolescents aged 15-19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study"
 authors:
 - admin
-- Bruno Masquelier
-- Danzhen You
-- Lucia Hug
-- Yang Liu
-- David Sharrow
-- Håvard Rue
-- Hernando Ombao
-- Leontine Alkema
-date: "2023-09-19T00:00:00Z"
-doi: "10.6084/m9.figshare.23659998"
+- Su-Yifei
+- Christophe Z. Guilmoto
+date: "2025-12-18T00:00:00Z"
+doi: "10.6084/m9.figshare.30772265"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-27T00:00:00Z"
@@ -24,28 +18,28 @@ publication: "*figshare*"
 publication_short: ""
 
 tags:
-- child mortality
-- adolescent mortality
-- under-5 mortality rate
-- gender discrimination
+- age-specific mortality rates
+- probabilistic projection
 - Bayesian hierarchical model
+- adolescent fertility
+- India
 - data quality analysis
 - time series models
-- global health
-- sex disparity
+- subnational modeling
+- child marriage
 - web appendix
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/report11_2023_ChaoF_Appendix_sex_ratio_mortality_0_25.pdf
+url_pdf: files/report12_2025_ChaoF_Appendix_India_Age_specific_Fertility_Rate_1990_2050_by_State.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://doi.org/10.6084/m9.figshare.23659998
+url_source: https://doi.org/10.6084/m9.figshare.30772265
 url_video: ''
 
 # Featured image
@@ -61,7 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- u5mr
+- fertility
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -72,4 +66,4 @@ projects:
 
 ---
 
-This web appendix is for [Sex differences in mortality among children, adolescents, and youth aged 0-24: A systematic assessment of national, regional, and global trends from 1990 to 2021](https://chaofengqing.github.io/chao_lab/publication/journal-article14/).
+This web appendix is for [Levels and trends in fertility rates among adolescents aged 15-19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study](https://chaofengqing.github.io/chao_lab/publication/preprint8/).
