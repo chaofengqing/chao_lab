@@ -46,6 +46,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# academic icons: https://jpswalsh.github.io/academicons/
 skills:
   - name: Technical
     items:
