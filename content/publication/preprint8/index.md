@@ -17,7 +17,7 @@ publishDate: "2019-05-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*SSRN* 5319104"
+publication: "*medRxiv*"
 publication_short: ""
 
 tags:
