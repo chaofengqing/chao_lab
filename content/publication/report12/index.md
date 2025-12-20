@@ -1,5 +1,5 @@
 ---
-title: "Web Appendix for Levels and trends in fertility rates among adolescents aged 15-19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study"
+title: "Web Appendix for Levels and trends in fertility rates among adolescents aged 15–19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study"
 authors:
 - admin
 - Su-Yifei
