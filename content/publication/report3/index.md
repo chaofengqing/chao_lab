@@ -40,7 +40,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://www.pnas.org/content/pnas/suppl/2019/04/10/1812593116.DCSupplemental/pnas.1812593116.sapp.pdf
+url_source: https://www.pnas.org/action/downloadSupplement?doi=10.1073%2Fpnas.1812593116&file=pnas.1812593116.sapp.pdf
 url_video: ''
 
 # Featured image
