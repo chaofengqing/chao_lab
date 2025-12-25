@@ -46,7 +46,7 @@ url_pdf: files/conference_paper5_ChaoF_PAA2017.pdf
 url_poster: https://doi.org/10.6084/m9.figshare.12401297
 # url_project: ''
 # url_slides: ''
-url_source: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/11833
+# url_source: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/11833
 # url_video: '#'
 
 # Featured image
