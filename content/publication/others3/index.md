@@ -33,7 +33,7 @@ url_pdf: files/others3_2013_UNIGME_Estimation-method-for-child-mortality-Used-in
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
-url_source: http://origin.who.int/gho/child_health/mortality/ChildCME_method.pdf
+# url_source: http://origin.who.int/gho/child_health/mortality/ChildCME_method.pdf
 # url_video: '#'
 
 # Featured image
