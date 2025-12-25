@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**&copy; 2022 Chao et al.**](https://doi.org/10.36922/ijps.v8i2.332)'
+  caption: 'Image credit: [**&copy; 2022 Chao et al.**](https://accscience.com/journal/IJPS/8/2/10.36922/ijps.v8i2.332)'
   focal_point: ""
   preview_only: false
 
