@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postgraduate student
+# role: Postgraduate student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
+bio: Qiqi used to work as a part-time research assistant in the Chao Lab. Her research interests interests are mainly in computers in human behavior, applied statistics and public health.
 
 interests:
   - LLM
@@ -43,9 +43,6 @@ education:
       year: 2024
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:qiqiqiang[AT]link[DOT]cuhk[DOT]edu[DOT]cn'
   - icon: globe
     icon_pack: fas
     link: https://loofla.github.io/academicpages.github.io/
@@ -59,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Alumni
 ---
 
 
