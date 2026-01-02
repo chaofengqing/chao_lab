@@ -13,7 +13,7 @@ sections:
       # text: |-
       #   Email is the preferred way to reach me.
       # Contact (add or remove contact options as necessary)
-      email: chaofengqing[AT]cuhk.edu.cn
+      email: chaofengqing[AT]cuhk[DOT]edu[DOT]cn
       phone: ''
       appointment_url: ''
       address:
