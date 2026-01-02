@@ -24,7 +24,7 @@ sections:
         
           1. Basic
           2. Moderate
-          3. Challenging (stay tuned)
+          3. Challenging
           4. Extreme
       filters:
         folders:
