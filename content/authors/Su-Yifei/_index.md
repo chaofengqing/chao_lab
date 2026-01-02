@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
+# bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
 
 interests:
   - Computers in Human Behavior
@@ -42,9 +42,6 @@ education:
       year: 2022
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yifeisu[AT]link[DOT]cuhk[DOT]edu[DOT]cn'
   - icon: globe
     icon_pack: fas
     link: https://lorrine-d.github.io/shiki.github.io/

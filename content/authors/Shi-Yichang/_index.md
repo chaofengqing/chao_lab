@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
+# bio: 
 
 interests:
   - Bayesian Statistics
@@ -46,9 +46,6 @@ education:
       year: 
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:224030204[AT]link[DOT]cuhk[DOT]edu[DOT]cn'
   - icon: globe
     icon_pack: fas
     link: https://helensyc.github.io/

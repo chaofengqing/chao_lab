@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yifei's research interests interests are quantitative research methods, digital behavior, social networks, and well-being.
+# bio: 
 
 interests:
   - Quantitative research methods
@@ -43,9 +43,6 @@ education:
       year: 2023
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:weichu.zhao[AT]link[DOT]cuhk[DOT]edu[DOT]cn'
   - icon: globe
     icon_pack: fas
     link: https://weichuz.github.io/
