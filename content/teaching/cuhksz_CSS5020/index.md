@@ -5,7 +5,6 @@ date: 2025-07-19
 type: docs
 math: true
 tags:
-  - css
   - stats
   - r
   - easy

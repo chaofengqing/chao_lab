@@ -5,7 +5,7 @@ date: 2025-07-19
 type: docs
 math: true
 tags:
-  - css
+  - demo
   - stats
   - r
   - challenging

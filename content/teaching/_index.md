@@ -47,8 +47,10 @@ sections:
           tag: latex
         - name: Statistics
           tag: stats
-        - name: Computational Social Science
-          tag: css
+        - name: Demography
+          tag: demo
+        - name: Model building
+          tag: model
         - name: Basic level
           tag: easy
         - name: Moderate level
