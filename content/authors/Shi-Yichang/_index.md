@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+bio: Yichang's interests are applied demography, applied statistics and modeling, urban and rural topics, and various computational social science methods.
 
 interests:
   - Bayesian Statistics

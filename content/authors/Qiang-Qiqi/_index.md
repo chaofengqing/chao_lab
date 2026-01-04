@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Qiqi used to work as a part-time research assistant in the Chao Lab.
+bio: Qiqi used to work as a part-time research assistant in the Chao Lab.
 
 interests:
   - LLM

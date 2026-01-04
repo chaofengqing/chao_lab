@@ -21,7 +21,7 @@ publication: "*figshare*"
 publication_short: ""
 
 tags:
-- age-specific mortality rates
+- age-specific fertility rates
 - probabilistic projection
 - Bayesian hierarchical model
 - adolescent fertility
@@ -69,4 +69,4 @@ projects:
 
 ---
 
-This web appendix is for [Levels and trends in fertility rates among adolescents aged 15-19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study](https://chaofengqing.github.io/chao_lab/publication/preprint8/).
+This web appendix is for [Levels and trends in fertility rates among adolescents aged 15–19 in 21 States and Union Territories in India from 1990 to 2050: A Bayesian Modelling Study](https://chaofengqing.github.io/chao_lab/publication/preprint8/).
