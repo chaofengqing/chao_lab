@@ -28,7 +28,7 @@ publication: "*SSRN* 5319104"
 publication_short: ""
 
 tags:
-- under-20 fertility rat
+- under-20 fertility rate
 - adolescent pregnancy
 - Sustainable Development Goals
 - global health
@@ -61,7 +61,7 @@ projects:
 
 ---
 
-This is a preprint that is under peer-reviewed currently.
+This is a preprint that is under peer review currently.
 
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.2139/ssrn.5319104" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
