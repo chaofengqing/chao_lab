@@ -1,5 +1,5 @@
 ---
-title: "“Sex Ratio of Mortality Rate Estimation Using a Bayesian Modeling Approach"
+title: "Sex Ratio of Mortality Rate Estimation Using a Bayesian Modeling Approach"
 authors:
 - admin
 date: "2021-08-09T00:00:00Z"
