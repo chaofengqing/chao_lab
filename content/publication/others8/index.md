@@ -62,4 +62,4 @@ projects:
 slides: ""
 ---
 
-This is an example of how my research finds its application in real life and helps with policy making and strategic planning.
+This is an example of how my research finds its application in real life and helps with policymaking and strategic planning.
