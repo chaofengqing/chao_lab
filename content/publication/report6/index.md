@@ -68,4 +68,4 @@ projects:
 
 ---
 
-This web appendix is for Probabilistic projection of the sex ratio at birth and missing female births by State and Union Territory in India.
+This web appendix is for [Probabilistic projection of the sex ratio at birth and missing female births by State and Union Territory in India](https://chaofengqing.github.io/chao_lab/publication/journal-article8/).
