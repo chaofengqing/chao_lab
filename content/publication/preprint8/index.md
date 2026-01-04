@@ -56,7 +56,7 @@ projects:
 
 ---
 
-This is a preprint that is under peer-reviewed currently.
+This is a preprint that is under peer review currently.
 
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.64898/2025.12.17.2534244" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
