@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Yifei's research interests interests are mainly in computers in human behavior, applied statistics and public health.
+bio: Yifei's research interests are mainly in computers in human behavior, applied statistics and public health.
 
 interests:
   - Computers in Human Behavior
