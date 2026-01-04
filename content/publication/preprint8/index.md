@@ -21,7 +21,7 @@ publication: "*medRxiv*"
 publication_short: ""
 
 tags:
-- age-specific mortality rates
+- age-specific fertility rates
 - probabilistic projection
 - Bayesian hierarchical model
 - adolescent fertility
