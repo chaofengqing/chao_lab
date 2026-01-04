@@ -59,5 +59,5 @@ projects:
 slides: ""
 ---
 
-I was not directly involved in preparing the report. But one of my research papers resulted as a section (_Section 5 Estimation of U5MR and IMR by sex, pp 9--12 and Section 8 Estimation of mortality rates among children aged 5--14 and youth aged 15--24 by sex, pp 13--14_) in this report by the [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
+I was not directly involved in preparing the report. But one of my research papers was included as a section (_Section 5 Estimation of U5MR and IMR by sex, pp 9--12 and Section 8 Estimation of mortality rates among children aged 5--14 and youth aged 15--24 by sex, pp 13--14_) in this report by the [UN Inter-agency Group for Child Mortality Estimation (UN IGME)](https://childmortality.org/).
 This is an example of how my research finds its application in real life and helps with policy making and strategic planning.
