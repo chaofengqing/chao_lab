@@ -67,6 +67,6 @@ projects:
 
 ---
 
-This web appendix formed part of the original submission and has been peer reviewed. The journal post it as supplied by the authors.
+This web appendix formed part of the original submission and has been peer reviewed. The journal posted it as supplied by the authors.
 
 Supplement to: Chao, F., Gerland, P., Cook, A.R. and Alkema, L., 2019. Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels. Proceedings of the National Academy of Sciences, 116(19), pp.9303--9311.
