@@ -54,7 +54,7 @@ projects:
 - u5mr
 
 ---
-This web appendix formed part of the original submission and has been peer reviewed. The journal post it as supplied by the authors.
+This web appendix formed part of the original submission and has been peer reviewed. The journal posted it as supplied by the authors.
 
 Supplement to: Chao F, You D, Pedersen J, Hug L, Alkema L. National and regional
 under-5 mortality rate by economic status for low-income and middle-income
