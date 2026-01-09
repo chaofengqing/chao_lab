@@ -34,7 +34,7 @@ education:
     - course: PhD in Computational Social Science
       institution: Chinese University of Hong Kong (Shenzhen)
       year: 2024-present
-    - course: MSc in in Information Studies
+    - course: MSc in Information Studies
       institution: Nanyang Technological University
       year: 2024
     - course: BCompSc in Computer Science
