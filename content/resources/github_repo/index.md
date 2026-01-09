@@ -60,7 +60,7 @@ if( debug )
 
 ------
 
-### 3.2 Remove Unnecessary Code with #
+### 3.2 Remove Nonessential Code
 
 Some R code in the script will have comments, commented code should be deleted.
 
