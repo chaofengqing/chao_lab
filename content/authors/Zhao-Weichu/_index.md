@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+bio: Weichu's interests mainly focus on quantitative research methods, well-being, digital behavior, and social networks.
 
 interests:
   - Quantitative research methods
