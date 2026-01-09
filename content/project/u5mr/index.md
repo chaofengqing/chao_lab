@@ -1,6 +1,6 @@
 ---
-title: Child and adolescence mortality rates disparity estimation
-summary: I build statistical models to estimate the disparities in child and adolescence mortality rates across countries over time.
+title: Child and adolescent mortality rates disparity estimation
+summary: I build statistical models to estimate the disparities in child and adolescent mortality rates across countries over time.
 tags:
 - Death
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-I build statistical models to estimate the disparities in child and adolescence mortality rates across countries over time.
+I build statistical models to estimate the disparities in child and adolescent mortality rates across countries over time.
