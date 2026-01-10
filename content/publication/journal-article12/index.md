@@ -56,3 +56,6 @@ projects:
 
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1186/s12889-022-12693-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{% callout note %}}
+Code available on [GitHub Repository](https://github.com/chaofengqing/SRB_Nepal).
+{{% /callout %}}
