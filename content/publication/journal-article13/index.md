@@ -38,7 +38,7 @@ links:
 # - name: SocArXiv
 #   url: https://osf.io/preprints/socarxiv/5n3y8/
 url_pdf: files/journal-article13_2022_ChaoF_Estimates_and_projections_of_sex_ratio_at_birth_for_seven_provinces_of_Pakistan.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB_Pakistan
 url_dataset: ''
 url_poster: ''
 url_project: ''
