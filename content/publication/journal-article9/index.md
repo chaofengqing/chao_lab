@@ -35,7 +35,7 @@ featured: true
 # - name: arXiv
 #   url: https://arxiv.org/abs/2004.02228
 url_pdf: files/journal-article9_2021_ChaoF_Sex-ratio-at-birth-in-Vietnam-among-six-subnational-regions-estimation-and-probabilistic-projection.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB_Vietnam
 url_dataset: ''
 url_poster: ''
 url_project: ''
