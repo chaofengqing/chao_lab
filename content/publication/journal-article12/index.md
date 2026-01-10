@@ -36,7 +36,7 @@ links:
 # - name: arXiv
 #   url: https://arxiv.org/abs/2006.07101
 url_pdf: files/journal-article12_2022_ChaoF_Estimation-and-probabilistic-projection-of-sex-ratio-at-birth-by-Nepal-province-1980-2050.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB_Nepal
 url_dataset: ''
 url_poster: ''
 url_project: ''
