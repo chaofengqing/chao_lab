@@ -37,7 +37,7 @@ featured: true
 # - name: arXiv
 #   url: https://arxiv.org/abs/2004.02228
 url_pdf: files/journal-article8_2020_ChaoF_Probabilistic-projection-of-the-sex-ratio-at-birth-and-missing-female-births-by-State-and-Union-Territory-in-India.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB_India_proj
 url_dataset: ''
 url_poster: ''
 url_project: ''
