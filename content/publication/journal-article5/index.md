@@ -32,7 +32,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: files/journal-article5_2019_ChaoF_Sex-ratio-at-birth-and-missing-female-births-for-29-states-and-union-territories-in-India-1990-2016.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB_India
 url_dataset: ''
 url_poster: ''
 url_project: ''
