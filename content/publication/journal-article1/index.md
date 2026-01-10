@@ -1,9 +1,5 @@
 ---
 title: "National, regional, and global sex ratios of infant, child, and under-5 mortality and identification of countries with outlying ratios: a systematic assessment"
-      text: |-
-        {{% callout note %}}
-        Code available on [GitHub Repository](https://github.com/chaofengqing/CMEgender_under5).
-        {{% /callout %}}
 authors:
 - Leontine Alkema
 - admin
@@ -61,6 +57,9 @@ projects:
 
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/S2214-109X(14)70280-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{% callout note %}}
+Code available on [GitHub Repository](https://github.com/chaofengqing/CMEgender_under5).
+{{% /callout %}}
 
 Please cite the linked dataset/web appendix as:
 
