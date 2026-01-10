@@ -58,3 +58,6 @@ projects:
 
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.36922/ijps.v8i2.332" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{% callout note %}}
+Code available on [GitHub Repository](https://github.com/chaofengqing/SRB_Pakistan).
+{{% /callout %}}
