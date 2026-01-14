@@ -1,7 +1,7 @@
 ---
 title: CSS5180 Advanced Topics in Demographics
 summary: Population study with statistical analysis, what more can you ask?
-date: 2025-07-19
+date: 2026-01-14
 type: docs
 math: true
 tags:
