@@ -15,6 +15,6 @@ image:
   preview_only: true
 ---
 
-This is a postgraduate course taught by me:
+This is a postgraduate course to be taught by me: stay tuned!
 
-* Spring, AY2025-26, CSS program, CUHKSZ.
+<!-- * Spring, AY2025-26, CSS program, CUHKSZ. -->
