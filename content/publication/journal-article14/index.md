@@ -44,7 +44,7 @@ links:
 # - name: SocArXiv
 #   url: https://osf.io/preprints/socarxiv/5n3y8/
 url_pdf: files/journal-article14_2023_ChaoF_Sex_difference_mortality_under_25.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/CMEgender_under25
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,3 +64,6 @@ projects:
 
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/S2214-109X(23)00376-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{% callout note %}}
+Code available on [GitHub Repository](https://github.com/chaofengqing/CMEgender_under25).
+{{% /callout %}}

@@ -1,5 +1,5 @@
 ---
-title: "Child labour affects 138 million children worldwide -- and far more counting domestic work"
+title: "Child labour affects 138 million children worldwide – and far more counting domestic work"
 authors:
 - Andrea Verhulst-Georgoulis
 - Estelle Laurière

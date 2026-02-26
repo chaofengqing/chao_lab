@@ -40,7 +40,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: files/journal-article4_2019_ChaoF_Systematic-assessment-of-the-sex-ratio-at-birth-for-all-countries-and-estimation-of-national-imbalances-and-regional-reference-levels.pdf
-url_code: ''
+url_code: https://github.com/chaofengqing/SRB
 url_dataset: "https://www.pnas.org/highwire/filestream/859048/field_highwire_adjunct_files/0/pnas.1812593116.sapp.pdf"
 url_poster: ''
 url_project: ''
@@ -72,6 +72,10 @@ projects:
 
 ---
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1073/pnas.1812593116" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+{{% callout note %}}
+Code available on [GitHub Repository](https://github.com/chaofengqing/SRB).
+{{% /callout %}}
 
 Please cite the linked dataset/web appendix as:
 
