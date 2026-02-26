@@ -1,5 +1,5 @@
 ---
-title: "Optimized Random-Combinations of Total Fertility Rates and Life Expectancies at Birth for Probabilistic Population Projections"
+title: "Child labour affects 138 million children worldwide -- and far more counting domestic work"
 authors:
 - Andrea Verhulst-Georgoulis
 - Estelle Laurière
