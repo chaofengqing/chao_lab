@@ -16,7 +16,7 @@ publishDate: "2020-04-15T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Population and Societies, 641*"
+publication: "*Population and Societies, 641*(2) 1-4"
 publication_short: ""
 
 abstract: Close to 138 million children around the world are subject to child labour. Child labour is not always easy to detect or to measure. How do international organizations define and measure child labour? How is domestic work taken into account? To tackle this critical issue, the authors propose a new database for better observation and monitoring of child labour patterns.
