@@ -46,6 +46,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://weichuz.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/WeichuZ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
