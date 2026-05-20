@@ -6,7 +6,6 @@ authors:
 - Christophe Z. Guilmoto
 author_notes:
 - "Correspondence"
-- "Supervised student"
 date: "2025-12-19T00:00:00Z"
 doi: "10.64898/2025.12.17.25342447"
 
