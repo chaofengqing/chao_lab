@@ -44,6 +44,9 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://evelyn-yiwen-li.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/evelyn-yiwen-li
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
