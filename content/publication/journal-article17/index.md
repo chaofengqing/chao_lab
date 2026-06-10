@@ -18,6 +18,7 @@ authors:
 - Helena Cruz Castanheira
 - Emi Suzuki
 author_notes:
+- ""
 - "Correspondence"
 date: "2026-06-04T00:00:00Z"
 doi: "10.1136/bmj-2025-088685"
