@@ -18,7 +18,7 @@ sections:
         label: Get in touch
         url: https://chaofengqing.github.io/chao_lab/contact
       text: |-
-        **Welcome! Chao Lab is about everything related to Bayesian model, demography, and global health.**
+        **Welcome! Chao Lab is about everything related to Bayesian modeling, demography, and global health.**
 
         In this website, you can get to know my research and my lab.
 
