@@ -22,7 +22,7 @@ sections:
 
         In this website, you can get to know my research and my lab.
         
-        I am hiring one postdoc now. The position information is available [here](https://www.cuhk.edu.cn/zh-hans/recruitment/17643).
+        <span style="color: red;">I am hiring one postdoc now. Check out the job ads [here](https://www.cuhk.edu.cn/zh-hans/recruitment/17643).</span>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
