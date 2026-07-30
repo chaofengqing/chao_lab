@@ -22,7 +22,10 @@ sections:
 
         In this website, you can get to know my research and my lab.
         
+        {{% callout note %}}
         <span style="color: orange;">**I am hiring one postdoc. Check out the job ads [here](https://www.cuhk.edu.cn/zh-hans/recruitment/17643).**</span>
+        {{% /callout %}}
+
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
