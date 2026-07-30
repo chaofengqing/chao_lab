@@ -21,6 +21,8 @@ sections:
         **Welcome! Chao Lab is about everything related to Bayesian modeling, demography, and global health.**
 
         In this website, you can get to know my research and my lab.
+        
+        I am hiring one postdoc now. The position information is available [here](https://www.cuhk.edu.cn/zh-hans/recruitment/17643).
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
