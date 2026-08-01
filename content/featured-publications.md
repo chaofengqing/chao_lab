@@ -43,6 +43,8 @@ css_style = ""
 css_class = ""
 +++
 
+**Chao, Fengqing**, Vladimíra Kantorová, Giulia Gonnella, Bruno Schoumaker, David A. Sánchez-Páez, and Patrick Gerland. ["Levels and trends in fertility rates among adolescents aged 10–14 and 15–19 in 201 countries and areas from 1950 to 2023."](https://chaofengqing.github.io/chao_lab/publication/journal-article18/) *BMJ Global Health* 11, no. 7 (2026): e021301.<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjgh-2025-021301" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 **Chao, Fengqing**, Bruno Masquelier, Danzhen You, Lucia Hug, Yang Liu, David Sharrow, Håvard Rue, Hernando Ombao, and Leontine Alkema. ["Sex differences in mortality among children, adolescents, and young people aged 0-24 years: a systematic assessment of national, regional, and global trends from 1990 to 2021."](https://chaofengqing.github.io/chao_lab/publication/journal-article14/) *Lancet Global Health* 11, no. 10 (2023): e1519-e1530.<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/S2214-109X(23)00376-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Chao, Fengqing**, Patrick Gerland, Alex R. Cook, Christophe Z. Guilmoto, and Leontine Alkema. ["Projecting sex imbalances at birth at global, regional and national levels from 2021 to 2100: scenario-based Bayesian probabilistic projections of the sex ratio at birth and missing female births based on 3.26 billion birth records."](https://chaofengqing.github.io/chao_lab/publication/journal-article10/) *BMJ Global Health* 6, no. 8 (2021): e005516.<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1136/bmjgh-2021-005516" data-hide-no-mentions="true" class="altmetric-embed"></div>
