@@ -74,4 +74,4 @@ projects:
 
 ---
 
-This web appendix is for [Levels and trends in fertility rates among adolescents aged 10–14 and 15–19 in 201 countries and areas from 1950 to 2023](https://chaofengqing.github.io/chao_lab/publication/preprint7/).
+This web appendix is for [Levels and trends in fertility rates among adolescents aged 10–14 and 15–19 in 201 countries and areas from 1950 to 2023](https://chaofengqing.github.io/chao_lab/publication/journal-article18/).
