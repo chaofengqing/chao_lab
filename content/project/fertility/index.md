@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Image credit: [**&copy; 2025 Chao et al.**](https://ssrn.com/abstract=5319104)'
+  caption: 'Image credit: [**&copy; 2026 Chao et al.**](https://doi.org/10.1136/bmjgh-2025-021301)'
   focal_point: Smart
 
 links:
