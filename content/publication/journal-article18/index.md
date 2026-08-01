@@ -21,7 +21,7 @@ doi: "10.1136/bmjgh-2025-021301"
 publishDate: "2019-05-01T00:00:00Z"
 
 # Publication type: https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*BMJ Global Health, 11*(7) e021301"
