@@ -15,6 +15,9 @@ padding = ["20px", "0", "20px", "0"]
 
 _Media coverage are listed in alphabetical order of news outlets._
 
+## **2026**
+[CUHKSZ Research News](https://hss.cuhk.edu.cn/en/article/1838). Aug 14, 2026. ``Prof. CHAO Fengqing Publishes First-Author Paper in BMJ Global Health, a Leading Journal in Medicine and Global Health''
+
 ## **2024**
 [KAUST Discovery](https://discovery.kaust.edu.sa/en/article/22993/global-look-at-sex-differences-in-young-peoples-mortality/). Jan 14, 2024. ``Global look at sex differences in young people's mortality''
 
