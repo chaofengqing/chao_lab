@@ -13,7 +13,7 @@ padding = ["20px", "0", "20px", "0"]
 
 +++
 
-_Media coverage are listed in alphabetical order of news outlets._
+_Media coverage are listed in alphabetical order of news outlets within each year._
 
 ## **2026**
 [CUHKSZ Research News](https://hss.cuhk.edu.cn/en/article/1838). Aug 14, 2026. ``Prof. CHAO Fengqing Publishes First-Author Paper in BMJ Global Health, a Leading Journal in Medicine and Global Health''
