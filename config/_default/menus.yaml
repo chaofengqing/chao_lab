@@ -59,7 +59,7 @@ main:
   #   url: 'collaborators'
   #   weight: 36
   - name: Docs
-    url: https://chaofengqing.github.io/chao_lab/docs/
+    url: https://chao-lab.gitbook.io/docs
     weight: 36
   - name: Outreach
     url: 'publication'
