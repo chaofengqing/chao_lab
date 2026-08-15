@@ -43,18 +43,18 @@ main:
   # - name: Lab
   #   url: /people
   #   weight: 21
-  - name: Lab
-    url: 'publication'
-    weight: 30
-    identifier: 'lab_parent'
+  # - name: Lab
+  #   url: 'publication'
+  #   weight: 30
+  #   identifier: 'lab_parent'
   - name: People
     url: 'people'
-    parent: 'lab_parent'
-    weight: 1
-  - name: Resources
-    url: 'resources'
-    parent: 'lab_parent'
-    weight: 2
+    # parent: 'lab_parent'
+    weight: 30
+  # - name: Resources
+  #   url: 'resources'
+  #   parent: 'lab_parent'
+  #   weight: 2
   # - name: Collaborators
   #   url: 'collaborators'
   #   weight: 36
