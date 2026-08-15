@@ -58,9 +58,9 @@ main:
   # - name: Collaborators
   #   url: 'collaborators'
   #   weight: 36
-  # - name: Docs
-  #   url: /docs
-  #   weight: 36
+  - name: Docs
+    url: /docs
+    weight: 36
   - name: Outreach
     url: 'publication'
     weight: 37
