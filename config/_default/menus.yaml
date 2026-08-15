@@ -82,3 +82,6 @@ main:
   - name: Contact
     url: 'contact'
     weight: 60
+  - name: Postdoc Openings
+    url: https://www.cuhk.edu.cn/zh-hans/recruitment/17643
+    weight: 70
