@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: Postgraduate student
+role: Former postgraduate RA (part-time)
 
 # Organizations/Affiliations
 organizations:
@@ -59,4 +59,4 @@ user_groups:
   - Alumni
 ---
 
-
+Qiqi used to work as a part-time research assistant in the Chao Lab.

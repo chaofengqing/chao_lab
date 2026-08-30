@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-# role: Undergraduate RA (part-time)
+role: Former undergraduate RA (part-time)
 
 # Organizations/Affiliations
 organizations:
@@ -57,4 +57,5 @@ user_groups:
   - Alumni
 ---
 
+Yiwen is an undergraduate student in Economics interested in using data and computational approaches to study social phenomena. Yiwen used to work as a part-time research assistant in the Chao Lab.
 
