@@ -22,7 +22,7 @@ organizations:
     url: https://www.cuhk.edu.cn/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yiwen is an undergraduate student in Economics interested in using data and computational approaches to study social phenomena.
+bio: Yiwen is an undergraduate student in Economics interested in using data and computational approaches to study social phenomena. Yiwen used to work as a part-time research assistant in the Chao Lab.
 
 interests:
   - Quantitative Research
@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Alumni
 ---
 
 
