@@ -42,13 +42,13 @@ education:
       institution: Zhongnan University of Economics and Law
       year: 2024
 
-social:
-  - icon: globe
-    icon_pack: fas
-    link: https://loofla.github.io/academicpages.github.io/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/loofla
+# social:
+#   - icon: globe
+#     icon_pack: fas
+#     link: https://loofla.github.io/academicpages.github.io/
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/loofla
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

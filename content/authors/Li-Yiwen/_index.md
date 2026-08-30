@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate RA (part-time)
+# role: Undergraduate RA (part-time)
 
 # Organizations/Affiliations
 organizations:
